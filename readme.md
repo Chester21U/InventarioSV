@@ -1,14 +1,14 @@
 # InventarioSV — Visor de Inventario por Sucursal
 
-**Universidad Gerardo Barrios** · Facultad de Ciencias y Tecnología
-**Asignatura:** Programación Computacional III · Parcial — Segundo Cómputo
+**Universidad Gerardo Barrios** · Facultad de Ciencias y Tecnología  
+**Asignatura:** Programación Computacional III · Parcial — Segundo Cómputo  
+**Catedrático:** Willian Alexis Montes Giron
 
-## Integrantes
+## Integrante
 
 | Nombre | Carnet |
 |---|---|
 | Abraham Bladimir Umanzor Vásquez | SMSS201426 |
-| _Nombre del segundo integrante_ | _Carnet_ |
 
 ## Descripción
 
@@ -20,7 +20,7 @@ El proyecto se divide en tres partes:
 2. **Análisis exploratorio (`generar_datos.py`)**: inspección de la estructura, tipos de datos, calidad y estadísticas descriptivas del inventario con funciones de Pandas.
 3. **Aplicación gráfica (`codigo_fuente.py`)**: interfaz de escritorio interactiva en PyQt5 que integra gráficos de Matplotlib, con información al pasar el cursor, filtros por clic, búsqueda, detalle de producto y temas cómodos para la vista.
 
-Los hallazgos, conclusiones y recomendaciones se presentan en `informe_consultoria.pdf`.
+Los hallazgos, conclusiones y recomendaciones se presentan en `INFORME DE CONSULTORIA.pdf`.
 
 ## Estructura del repositorio
 
@@ -28,7 +28,7 @@ Los hallazgos, conclusiones y recomendaciones se presentan en `informe_consultor
 ├── generar_datos.py           Generación del inventario y análisis con Pandas
 ├── codigo_fuente.py           Aplicación gráfica PyQt5 + Matplotlib
 ├── datos.csv                  Inventario generado (1,077 registros)
-├── informe_consultoria.pdf    Informe de consultoría
+├── INFORME DE CONSULTORIA.pdf Informe de consultoría
 ├── capturas/                  Capturas de la aplicación
 ├── requirements.txt           Dependencias del proyecto
 ├── .gitignore
