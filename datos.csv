@@ -1,0 +1,1078 @@
+ID_Producto,Producto,Categoria,Sucursal,Proveedor,Cantidad,Precio_Unitario,Stock_Minimo,Fecha_Ultimo_Ingreso
+PRD-0001,Arroz blanco 5 lb,Abarrotes,La Libertad,Suministros de Oriente,139,4.56,40,2026-09-01
+PRD-0002,Arroz blanco 5 lb,Abarrotes,La Libertad,Mayoreo Centroamericano,50,4.67,51,2026-09-11
+PRD-0003,Arroz blanco 5 lb,Abarrotes,La Libertad,Importadora del Pacífico,212,4.44,35,2026-08-29
+PRD-0004,Arroz blanco 5 lb,Abarrotes,La Libertad,Distribuidora Cuscatlán,176,4.1,34,2026-10-12
+PRD-0005,Arroz blanco 5 lb,Abarrotes,La Libertad,Grupo Comercial Lempa,65,4.69,59,2026-08-27
+PRD-0007,Frijol rojo seda 2 lb,Abarrotes,La Libertad,Distribuidora Cuscatlán,116,2.5,40,2026-09-15
+PRD-0008,Frijol rojo seda 2 lb,Abarrotes,La Libertad,Grupo Comercial Lempa,75,2.47,55,2026-06-02
+PRD-0010,Azúcar blanca 5 lb,Abarrotes,La Libertad,Mayoreo Centroamericano,183,3.21,44,2026-09-25
+PRD-0011,Azúcar blanca 5 lb,Abarrotes,La Libertad,Importadora del Pacífico,173,3.39,47,2026-10-12
+PRD-0013,Azúcar blanca 5 lb,Abarrotes,La Libertad,Grupo Comercial Lempa,35,3.71,36,2026-07-25
+PRD-0014,Aceite vegetal 1 L,Abarrotes,La Libertad,Distribuidora Cuscatlán,184,3.13,46,2026-09-15
+PRD-0015,Aceite vegetal 1 L,Abarrotes,La Libertad,Suministros de Oriente,210,3.46,30,2026-09-10
+PRD-0016,Aceite vegetal 1 L,Abarrotes,La Libertad,Grupo Comercial Lempa,162,3.32,39,2026-09-10
+PRD-0017,Aceite vegetal 1 L,Abarrotes,La Libertad,Mayoreo Centroamericano,91,3.05,32,2026-08-26
+PRD-0018,Aceite vegetal 1 L,Abarrotes,La Libertad,Importadora del Pacífico,23,3.32,37,2026-09-02
+PRD-0019,Café molido 400 g,Abarrotes,La Libertad,Grupo Comercial Lempa,137,6.1,59,2026-09-04
+PRD-0021,Café molido 400 g,Abarrotes,La Libertad,Importadora del Pacífico,190,5.65,40,2026-09-28
+PRD-0022,Café molido 400 g,Abarrotes,La Libertad,Suministros de Oriente,81,5.8,42,2026-08-04
+PRD-0023,Harina de maíz 2 lb,Abarrotes,La Libertad,Distribuidora Cuscatlán,87,2.1,30,2026-09-28
+PRD-0024,Harina de maíz 2 lb,Abarrotes,La Libertad,Mayoreo Centroamericano,217,1.98,52,2026-09-03
+PRD-0026,Harina de maíz 2 lb,Abarrotes,La Libertad,Suministros de Oriente,98,1.8,35,2026-07-25
+PRD-0027,Harina de maíz 2 lb,Abarrotes,La Libertad,Grupo Comercial Lempa,174,2.18,57,2026-08-25
+PRD-0029,Pasta espagueti 500 g,Abarrotes,La Libertad,Distribuidora Cuscatlán,203,1.18,42,2026-09-09
+PRD-0030,Pasta espagueti 500 g,Abarrotes,La Libertad,Suministros de Oriente,153,1.22,58,2026-09-01
+PRD-0032,Leche en polvo 800 g,Abarrotes,La Libertad,Grupo Comercial Lempa,22,8.56,33,2026-08-26
+PRD-0033,Leche en polvo 800 g,Abarrotes,La Libertad,Suministros de Oriente,122,8.96,50,2026-09-29
+PRD-0034,Leche en polvo 800 g,Abarrotes,La Libertad,Importadora del Pacífico,201,8.19,40,2026-09-05
+PRD-0035,Leche en polvo 800 g,Abarrotes,La Libertad,Distribuidora Cuscatlán,200,9.19,30,2026-03-30
+PRD-0036,Sal yodada 1 kg,Abarrotes,La Libertad,Importadora del Pacífico,134,0.61,57,2026-04-08
+PRD-0037,Sal yodada 1 kg,Abarrotes,La Libertad,Distribuidora Cuscatlán,10,0.72,37,2026-09-23
+PRD-0038,Sal yodada 1 kg,Abarrotes,La Libertad,Suministros de Oriente,173,0.68,53,2026-09-15
+PRD-0039,Sal yodada 1 kg,Abarrotes,La Libertad,Mayoreo Centroamericano,178,0.68,32,2026-10-06
+PRD-0040,Sal yodada 1 kg,Abarrotes,La Libertad,Grupo Comercial Lempa,191,0.72,46,2026-07-22
+PRD-0042,Atún en agua 140 g,Abarrotes,La Libertad,Suministros de Oriente,93,1.55,40,2026-10-02
+PRD-0044,Atún en agua 140 g,Abarrotes,La Libertad,Importadora del Pacífico,95,1.58,40,2026-09-19
+PRD-0046,Agua purificada 1.5 L,Bebidas,La Libertad,Grupo Comercial Lempa,163,0.82,33,2026-09-05
+PRD-0047,Agua purificada 1.5 L,Bebidas,La Libertad,Importadora del Pacífico,177,0.78,25,2026-10-02
+PRD-0048,Agua purificada 1.5 L,Bebidas,La Libertad,Mayoreo Centroamericano,177,0.87,35,2026-06-25
+PRD-0050,Gaseosa 2 L,Bebidas,La Libertad,Grupo Comercial Lempa,184,1.81,32,2026-09-22
+PRD-0051,Gaseosa 2 L,Bebidas,La Libertad,Mayoreo Centroamericano,169,2.04,32,2026-10-02
+PRD-0052,Gaseosa 2 L,Bebidas,La Libertad,Distribuidora Cuscatlán,158,1.96,45,2026-09-29
+PRD-0053,Gaseosa 2 L,Bebidas,La Libertad,Suministros de Oriente,137,1.99,29,2026-08-25
+PRD-0054,Gaseosa 2 L,Bebidas,La Libertad,Importadora del Pacífico,44,2.05,48,2026-09-26
+PRD-0055,Jugo de naranja 1 L,Bebidas,La Libertad,Distribuidora Cuscatlán,40,2.55,42,2026-09-24
+PRD-0056,Jugo de naranja 1 L,Bebidas,La Libertad,Grupo Comercial Lempa,67,2.29,42,2026-08-30
+PRD-0057,Jugo de naranja 1 L,Bebidas,La Libertad,Suministros de Oriente,182,2.43,42,2026-09-02
+PRD-0058,Jugo de naranja 1 L,Bebidas,La Libertad,Mayoreo Centroamericano,88,2.33,28,2026-10-04
+PRD-0059,Jugo de naranja 1 L,Bebidas,La Libertad,Importadora del Pacífico,118,2.3,27,2026-08-18
+PRD-0060,Bebida energética 473 ml,Bebidas,La Libertad,Suministros de Oriente,45,1.94,44,2026-08-12
+PRD-0061,Bebida energética 473 ml,Bebidas,La Libertad,Mayoreo Centroamericano,176,2.31,31,2026-09-14
+PRD-0062,Bebida energética 473 ml,Bebidas,La Libertad,Distribuidora Cuscatlán,119,2.04,26,2026-08-30
+PRD-0063,Bebida energética 473 ml,Bebidas,La Libertad,Importadora del Pacífico,180,2.0,39,2026-09-20
+PRD-0065,Té frío 500 ml,Bebidas,La Libertad,Distribuidora Cuscatlán,134,1.18,31,2026-09-21
+PRD-0066,Té frío 500 ml,Bebidas,La Libertad,Mayoreo Centroamericano,176,1.1,35,2026-10-12
+PRD-0067,Té frío 500 ml,Bebidas,La Libertad,Importadora del Pacífico,149,1.23,31,2026-08-24
+PRD-0068,Té frío 500 ml,Bebidas,La Libertad,Suministros de Oriente,128,1.05,34,2026-05-10
+PRD-0069,Horchata en polvo 400 g,Bebidas,La Libertad,Suministros de Oriente,77,3.16,30,2026-08-31
+PRD-0070,Horchata en polvo 400 g,Bebidas,La Libertad,Mayoreo Centroamericano,98,3.33,42,2026-08-30
+PRD-0071,Horchata en polvo 400 g,Bebidas,La Libertad,Importadora del Pacífico,59,3.59,48,2026-09-15
+PRD-0074,Café instantáneo 200 g,Bebidas,La Libertad,Mayoreo Centroamericano,102,6.96,28,2026-08-13
+PRD-0075,Café instantáneo 200 g,Bebidas,La Libertad,Grupo Comercial Lempa,84,6.15,49,2026-09-30
+PRD-0076,Café instantáneo 200 g,Bebidas,La Libertad,Importadora del Pacífico,108,6.64,36,2026-08-15
+PRD-0077,Café instantáneo 200 g,Bebidas,La Libertad,Suministros de Oriente,139,5.87,43,2026-10-07
+PRD-0080,Jabón de tocador 3 un.,Higiene Personal,La Libertad,Suministros de Oriente,70,2.47,28,2026-08-28
+PRD-0081,Jabón de tocador 3 un.,Higiene Personal,La Libertad,Importadora del Pacífico,9,2.3,38,2026-09-14
+PRD-0084,Champú 400 ml,Higiene Personal,La Libertad,Importadora del Pacífico,82,4.4,35,2026-08-26
+PRD-0085,Champú 400 ml,Higiene Personal,La Libertad,Grupo Comercial Lempa,42,4.54,37,2026-09-01
+PRD-0086,Champú 400 ml,Higiene Personal,La Libertad,Suministros de Oriente,35,5.25,37,2026-10-13
+PRD-0087,Pasta dental 150 ml,Higiene Personal,La Libertad,Importadora del Pacífico,71,2.49,21,2026-08-18
+PRD-0088,Pasta dental 150 ml,Higiene Personal,La Libertad,Distribuidora Cuscatlán,95,2.64,25,2026-08-29
+PRD-0091,Desodorante 50 ml,Higiene Personal,La Libertad,Distribuidora Cuscatlán,71,3.92,28,2026-07-27
+PRD-0092,Desodorante 50 ml,Higiene Personal,La Libertad,Importadora del Pacífico,106,4.05,26,2026-08-18
+PRD-0093,Desodorante 50 ml,Higiene Personal,La Libertad,Mayoreo Centroamericano,138,4.4,23,2026-07-23
+PRD-0094,Desodorante 50 ml,Higiene Personal,La Libertad,Suministros de Oriente,147,4.33,31,2026-08-02
+PRD-0095,Papel higiénico 12 rollos,Higiene Personal,La Libertad,Distribuidora Cuscatlán,76,6.38,29,2026-09-17
+PRD-0096,Papel higiénico 12 rollos,Higiene Personal,La Libertad,Suministros de Oriente,114,6.27,34,2026-09-09
+PRD-0097,Papel higiénico 12 rollos,Higiene Personal,La Libertad,Importadora del Pacífico,150,6.37,33,2026-09-07
+PRD-0098,Papel higiénico 12 rollos,Higiene Personal,La Libertad,Grupo Comercial Lempa,42,6.47,32,2026-10-09
+PRD-0099,Papel higiénico 12 rollos,Higiene Personal,La Libertad,Mayoreo Centroamericano,109,7.2,35,2026-04-01
+PRD-0100,Toallas húmedas 80 un.,Higiene Personal,La Libertad,Suministros de Oriente,145,2.93,29,2026-07-25
+PRD-0101,Toallas húmedas 80 un.,Higiene Personal,La Libertad,Grupo Comercial Lempa,54,2.96,24,2026-09-20
+PRD-0102,Toallas húmedas 80 un.,Higiene Personal,La Libertad,Mayoreo Centroamericano,73,3.58,24,2026-09-28
+PRD-0103,Toallas húmedas 80 un.,Higiene Personal,La Libertad,Importadora del Pacífico,105,2.99,26,2026-08-06
+PRD-0104,Toallas húmedas 80 un.,Higiene Personal,La Libertad,Distribuidora Cuscatlán,151,3.52,22,2026-10-05
+PRD-0105,Cepillo dental,Higiene Personal,La Libertad,Suministros de Oriente,67,1.78,28,2026-04-02
+PRD-0106,Cepillo dental,Higiene Personal,La Libertad,Distribuidora Cuscatlán,37,1.79,31,2026-08-27
+PRD-0108,Cepillo dental,Higiene Personal,La Libertad,Grupo Comercial Lempa,61,1.72,28,2026-08-11
+PRD-0109,Juego de sartenes 3 pzs,Hogar,La Libertad,Grupo Comercial Lempa,0,38.13,10,2026-09-10
+PRD-0110,Juego de sartenes 3 pzs,Hogar,La Libertad,Suministros de Oriente,6,31.76,18,2026-09-14
+PRD-0111,Juego de sartenes 3 pzs,Hogar,La Libertad,Importadora del Pacífico,37,38.61,17,2026-08-01
+PRD-0112,Juego de sartenes 3 pzs,Hogar,La Libertad,Distribuidora Cuscatlán,51,37.07,24,2026-08-01
+PRD-0113,Vajilla 16 piezas,Hogar,La Libertad,Grupo Comercial Lempa,60,41.34,23,2026-09-29
+PRD-0114,Vajilla 16 piezas,Hogar,La Libertad,Mayoreo Centroamericano,71,45.32,16,2026-08-01
+PRD-0115,Vajilla 16 piezas,Hogar,La Libertad,Importadora del Pacífico,48,39.85,16,2026-09-11
+PRD-0116,Vajilla 16 piezas,Hogar,La Libertad,Distribuidora Cuscatlán,55,44.77,11,2026-09-23
+PRD-0117,Detergente en polvo 2 kg,Hogar,La Libertad,Mayoreo Centroamericano,26,7.92,20,2026-09-28
+PRD-0118,Detergente en polvo 2 kg,Hogar,La Libertad,Grupo Comercial Lempa,37,7.74,21,2026-08-18
+PRD-0119,Detergente en polvo 2 kg,Hogar,La Libertad,Importadora del Pacífico,47,7.63,14,2026-09-11
+PRD-0122,Desinfectante 1 gal,Hogar,La Libertad,Suministros de Oriente,73,6.65,20,2026-09-02
+PRD-0123,Desinfectante 1 gal,Hogar,La Libertad,Distribuidora Cuscatlán,8,6.09,23,2026-07-20
+PRD-0124,Desinfectante 1 gal,Hogar,La Libertad,Importadora del Pacífico,66,6.36,10,2026-10-08
+PRD-0125,Escoba de cerdas,Hogar,La Libertad,Mayoreo Centroamericano,88,4.5,11,2026-08-05
+PRD-0128,Escoba de cerdas,Hogar,La Libertad,Importadora del Pacífico,47,4.93,17,2026-09-23
+PRD-0130,Cortina de baño,Hogar,La Libertad,Grupo Comercial Lempa,81,10.74,21,2026-10-02
+PRD-0132,Cortina de baño,Hogar,La Libertad,Suministros de Oriente,19,10.45,20,2026-08-28
+PRD-0133,Cortina de baño,Hogar,La Libertad,Importadora del Pacífico,86,10.54,17,2026-09-18
+PRD-0135,Juego de sábanas matrimonial,Hogar,La Libertad,Importadora del Pacífico,20,26.67,23,2026-08-23
+PRD-0136,Juego de sábanas matrimonial,Hogar,La Libertad,Grupo Comercial Lempa,48,28.35,17,2026-06-04
+PRD-0138,Almohada estándar,Hogar,La Libertad,Importadora del Pacífico,41,12.65,23,2026-09-19
+PRD-0139,Almohada estándar,Hogar,La Libertad,Distribuidora Cuscatlán,62,10.72,11,2026-05-16
+PRD-0140,Almohada estándar,Hogar,La Libertad,Grupo Comercial Lempa,84,12.23,19,2026-09-05
+PRD-0143,Martillo de uña 16 oz,Ferretería,La Libertad,Importadora del Pacífico,65,9.66,6,2026-08-18
+PRD-0144,Martillo de uña 16 oz,Ferretería,La Libertad,Mayoreo Centroamericano,61,8.83,8,2026-08-04
+PRD-0145,Martillo de uña 16 oz,Ferretería,La Libertad,Grupo Comercial Lempa,61,9.4,13,2026-10-02
+PRD-0146,Martillo de uña 16 oz,Ferretería,La Libertad,Suministros de Oriente,8,9.78,10,2026-09-25
+PRD-0147,Martillo de uña 16 oz,Ferretería,La Libertad,Distribuidora Cuscatlán,64,9.88,9,2026-09-11
+PRD-0148,Juego de destornilladores,Ferretería,La Libertad,Importadora del Pacífico,25,14.26,17,2026-08-22
+PRD-0150,Juego de destornilladores,Ferretería,La Libertad,Grupo Comercial Lempa,32,16.22,7,2026-09-30
+PRD-0151,Juego de destornilladores,Ferretería,La Libertad,Mayoreo Centroamericano,13,13.73,16,2026-09-29
+PRD-0152,Juego de destornilladores,Ferretería,La Libertad,Suministros de Oriente,65,13.35,10,2026-10-09
+PRD-0153,Taladro percutor 600 W,Ferretería,La Libertad,Importadora del Pacífico,49,66.58,16,2026-08-14
+PRD-0154,Taladro percutor 600 W,Ferretería,La Libertad,Grupo Comercial Lempa,54,64.73,16,2026-07-23
+PRD-0155,Taladro percutor 600 W,Ferretería,La Libertad,Distribuidora Cuscatlán,28,61.65,13,2026-10-07
+PRD-0156,Taladro percutor 600 W,Ferretería,La Libertad,Suministros de Oriente,48,69.06,17,2026-07-30
+PRD-0157,Taladro percutor 600 W,Ferretería,La Libertad,Mayoreo Centroamericano,54,61.93,11,2026-08-30
+PRD-0159,Cinta métrica 5 m,Ferretería,La Libertad,Importadora del Pacífico,54,5.76,7,2026-08-22
+PRD-0160,Cinta métrica 5 m,Ferretería,La Libertad,Mayoreo Centroamericano,59,5.3,9,2026-08-11
+PRD-0161,Cinta métrica 5 m,Ferretería,La Libertad,Distribuidora Cuscatlán,10,5.31,13,2026-08-31
+PRD-0162,Pintura látex 1 gal,Ferretería,La Libertad,Importadora del Pacífico,76,23.72,14,2026-09-06
+PRD-0164,Pintura látex 1 gal,Ferretería,La Libertad,Mayoreo Centroamericano,66,21.89,12,2026-08-09
+PRD-0165,Pintura látex 1 gal,Ferretería,La Libertad,Distribuidora Cuscatlán,56,20.78,10,2026-09-26
+PRD-0166,Extensión eléctrica 5 m,Ferretería,La Libertad,Distribuidora Cuscatlán,50,8.77,6,2026-08-27
+PRD-0167,Extensión eléctrica 5 m,Ferretería,La Libertad,Mayoreo Centroamericano,14,7.81,10,2026-09-16
+PRD-0168,Extensión eléctrica 5 m,Ferretería,La Libertad,Suministros de Oriente,17,9.07,16,2026-03-24
+PRD-0169,Extensión eléctrica 5 m,Ferretería,La Libertad,Grupo Comercial Lempa,14,8.68,11,2026-06-22
+PRD-0170,Extensión eléctrica 5 m,Ferretería,La Libertad,Importadora del Pacífico,73,7.47,10,2026-08-17
+PRD-0171,Candado de seguridad,Ferretería,La Libertad,Grupo Comercial Lempa,37,11.29,6,2026-08-16
+PRD-0172,Candado de seguridad,Ferretería,La Libertad,Mayoreo Centroamericano,66,11.69,9,2026-07-10
+PRD-0173,Candado de seguridad,Ferretería,La Libertad,Suministros de Oriente,20,10.89,15,2026-07-25
+PRD-0174,Candado de seguridad,Ferretería,La Libertad,Importadora del Pacífico,58,10.75,12,2026-09-18
+PRD-0175,Candado de seguridad,Ferretería,La Libertad,Distribuidora Cuscatlán,57,10.32,9,2026-08-03
+PRD-0176,Foco LED 12 W,Ferretería,La Libertad,Distribuidora Cuscatlán,18,2.71,6,2026-09-27
+PRD-0177,Foco LED 12 W,Ferretería,La Libertad,Importadora del Pacífico,41,2.74,17,2026-09-08
+PRD-0178,Foco LED 12 W,Ferretería,La Libertad,Mayoreo Centroamericano,74,2.75,16,2026-09-15
+PRD-0179,Foco LED 12 W,Ferretería,La Libertad,Suministros de Oriente,37,2.85,15,2026-07-18
+PRD-0180,Audífonos Bluetooth,Electrónica,La Libertad,Distribuidora Cuscatlán,1,30.17,8,2026-09-05
+PRD-0181,Audífonos Bluetooth,Electrónica,La Libertad,Mayoreo Centroamericano,29,28.82,9,2026-09-21
+PRD-0182,Audífonos Bluetooth,Electrónica,La Libertad,Importadora del Pacífico,14,31.88,4,2026-09-11
+PRD-0183,Audífonos Bluetooth,Electrónica,La Libertad,Grupo Comercial Lempa,4,28.35,9,2026-09-27
+PRD-0185,Parlante portátil,Electrónica,La Libertad,Suministros de Oriente,37,43.78,6,2026-05-19
+PRD-0186,Parlante portátil,Electrónica,La Libertad,Distribuidora Cuscatlán,14,49.36,3,2026-08-04
+PRD-0188,Parlante portátil,Electrónica,La Libertad,Importadora del Pacífico,26,41.44,4,2026-08-26
+PRD-0189,Cargador USB-C 25 W,Electrónica,La Libertad,Grupo Comercial Lempa,1,14.41,4,2026-09-05
+PRD-0190,Cargador USB-C 25 W,Electrónica,La Libertad,Suministros de Oriente,34,15.38,4,2026-09-11
+PRD-0191,Cargador USB-C 25 W,Electrónica,La Libertad,Importadora del Pacífico,37,13.96,7,2026-08-16
+PRD-0192,Cargador USB-C 25 W,Electrónica,La Libertad,Distribuidora Cuscatlán,7,15.3,9,2026-09-12
+PRD-0193,Cargador USB-C 25 W,Electrónica,La Libertad,Mayoreo Centroamericano,2,16.24,5,2026-09-16
+PRD-0194,Mouse inalámbrico,Electrónica,La Libertad,Mayoreo Centroamericano,7,14.12,8,2026-09-10
+PRD-0195,Mouse inalámbrico,Electrónica,La Libertad,Distribuidora Cuscatlán,8,12.34,6,2026-09-11
+PRD-0196,Mouse inalámbrico,Electrónica,La Libertad,Grupo Comercial Lempa,7,12.26,8,2026-10-04
+PRD-0197,Mouse inalámbrico,Electrónica,La Libertad,Suministros de Oriente,7,12.74,3,2026-07-04
+PRD-0198,Mouse inalámbrico,Electrónica,La Libertad,Importadora del Pacífico,18,12.98,4,2026-09-21
+PRD-0199,Memoria USB 64 GB,Electrónica,La Libertad,Suministros de Oriente,34,9.25,8,2026-08-16
+PRD-0201,Memoria USB 64 GB,Electrónica,La Libertad,Importadora del Pacífico,33,10.61,6,2026-10-06
+PRD-0202,Memoria USB 64 GB,Electrónica,La Libertad,Mayoreo Centroamericano,20,10.48,9,2026-04-26
+PRD-0205,Router WiFi doble banda,Electrónica,La Libertad,Grupo Comercial Lempa,12,59.22,9,2026-08-09
+PRD-0206,Router WiFi doble banda,Electrónica,La Libertad,Mayoreo Centroamericano,26,49.28,5,2026-04-29
+PRD-0208,Router WiFi doble banda,Electrónica,La Libertad,Distribuidora Cuscatlán,16,49.83,5,2026-08-21
+PRD-0209,Tablet 10 pulgadas,Electrónica,La Libertad,Mayoreo Centroamericano,17,179.05,9,2026-08-10
+PRD-0213,Tablet 10 pulgadas,Electrónica,La Libertad,Grupo Comercial Lempa,26,174.89,6,2026-09-17
+PRD-0214,Smartphone gama media,Electrónica,La Libertad,Suministros de Oriente,8,272.74,9,2026-10-04
+PRD-0215,Smartphone gama media,Electrónica,La Libertad,Grupo Comercial Lempa,21,309.08,7,2026-08-07
+PRD-0216,Smartphone gama media,Electrónica,La Libertad,Importadora del Pacífico,25,311.14,5,2026-08-24
+PRD-0217,Smartphone gama media,Electrónica,La Libertad,Mayoreo Centroamericano,2,308.53,4,2026-09-13
+PRD-0219,Smart TV 43 pulgadas,Electrónica,La Libertad,Grupo Comercial Lempa,26,355.57,4,2026-09-08
+PRD-0220,Smart TV 43 pulgadas,Electrónica,La Libertad,Suministros de Oriente,21,322.66,3,2026-09-16
+PRD-0222,Licuadora 600 W,Electrodomésticos,La Libertad,Suministros de Oriente,20,53.28,2,2026-10-04
+PRD-0224,Licuadora 600 W,Electrodomésticos,La Libertad,Distribuidora Cuscatlán,19,48.72,5,2026-06-25
+PRD-0226,Microondas 0.9 pies,Electrodomésticos,La Libertad,Importadora del Pacífico,21,102.22,5,2026-07-11
+PRD-0228,Microondas 0.9 pies,Electrodomésticos,La Libertad,Suministros de Oriente,19,93.96,5,2026-10-07
+PRD-0230,Refrigeradora 10 pies,Electrodomésticos,La Libertad,Mayoreo Centroamericano,7,485.24,4,2026-09-13
+PRD-0231,Refrigeradora 10 pies,Electrodomésticos,La Libertad,Suministros de Oriente,1,545.16,3,2026-10-02
+PRD-0232,Refrigeradora 10 pies,Electrodomésticos,La Libertad,Grupo Comercial Lempa,22,512.68,2,2026-10-02
+PRD-0233,Refrigeradora 10 pies,Electrodomésticos,La Libertad,Importadora del Pacífico,21,540.57,4,2026-10-02
+PRD-0234,Lavadora 18 lb,Electrodomésticos,La Libertad,Importadora del Pacífico,4,412.93,4,2026-08-18
+PRD-0235,Lavadora 18 lb,Electrodomésticos,La Libertad,Mayoreo Centroamericano,0,436.26,2,2026-04-21
+PRD-0236,Lavadora 18 lb,Electrodomésticos,La Libertad,Grupo Comercial Lempa,4,391.67,5,2026-08-20
+PRD-0237,Lavadora 18 lb,Electrodomésticos,La Libertad,Suministros de Oriente,24,452.96,2,2026-10-02
+PRD-0238,Cafetera 12 tazas,Electrodomésticos,La Libertad,Distribuidora Cuscatlán,7,32.16,2,2026-10-06
+PRD-0239,Cafetera 12 tazas,Electrodomésticos,La Libertad,Grupo Comercial Lempa,8,30.17,4,2026-07-22
+PRD-0240,Cafetera 12 tazas,Electrodomésticos,La Libertad,Mayoreo Centroamericano,8,35.42,2,2026-03-10
+PRD-0243,Plancha de vapor,Electrodomésticos,La Libertad,Suministros de Oriente,14,26.65,2,2026-09-04
+PRD-0244,Plancha de vapor,Electrodomésticos,La Libertad,Distribuidora Cuscatlán,2,24.51,3,2026-08-18
+PRD-0245,Plancha de vapor,Electrodomésticos,La Libertad,Importadora del Pacífico,2,22.77,5,2026-07-30
+PRD-0246,Ventilador de pedestal,Electrodomésticos,La Libertad,Mayoreo Centroamericano,22,40.38,5,2026-09-25
+PRD-0247,Ventilador de pedestal,Electrodomésticos,La Libertad,Distribuidora Cuscatlán,8,43.87,2,2026-09-12
+PRD-0248,Ventilador de pedestal,Electrodomésticos,La Libertad,Importadora del Pacífico,18,41.16,2,2026-07-22
+PRD-0249,Ventilador de pedestal,Electrodomésticos,La Libertad,Suministros de Oriente,3,41.48,2,2026-08-30
+PRD-0250,Ventilador de pedestal,Electrodomésticos,La Libertad,Grupo Comercial Lempa,20,36.73,5,2026-08-21
+PRD-0251,Olla arrocera 1.8 L,Electrodomésticos,La Libertad,Suministros de Oriente,11,31.18,3,2026-09-29
+PRD-0252,Olla arrocera 1.8 L,Electrodomésticos,La Libertad,Distribuidora Cuscatlán,23,27.91,4,2026-09-10
+PRD-0254,Olla arrocera 1.8 L,Electrodomésticos,La Libertad,Grupo Comercial Lempa,17,31.28,5,2026-08-06
+PRD-0255,Olla arrocera 1.8 L,Electrodomésticos,La Libertad,Mayoreo Centroamericano,0,28.96,5,2026-05-25
+PRD-0256,Cocina de gas 4 quemadores,Electrodomésticos,La Libertad,Mayoreo Centroamericano,23,253.16,5,2026-10-04
+PRD-0258,Cocina de gas 4 quemadores,Electrodomésticos,La Libertad,Suministros de Oriente,14,283.12,4,2026-10-04
+PRD-0001,Arroz blanco 5 lb,Abarrotes,San Miguel,Suministros de Oriente,104,4.56,40,2026-10-06
+PRD-0002,Arroz blanco 5 lb,Abarrotes,San Miguel,Mayoreo Centroamericano,110,4.67,51,2026-06-06
+PRD-0003,Arroz blanco 5 lb,Abarrotes,San Miguel,Importadora del Pacífico,31,4.44,35,2026-10-08
+PRD-0004,Arroz blanco 5 lb,Abarrotes,San Miguel,Distribuidora Cuscatlán,79,4.1,34,2026-08-21
+PRD-0005,Arroz blanco 5 lb,Abarrotes,San Miguel,Grupo Comercial Lempa,56,4.69,59,2026-09-26
+PRD-0006,Frijol rojo seda 2 lb,Abarrotes,San Miguel,Importadora del Pacífico,256,2.6,43,2026-06-16
+PRD-0007,Frijol rojo seda 2 lb,Abarrotes,San Miguel,Distribuidora Cuscatlán,72,2.5,40,2026-06-19
+PRD-0009,Frijol rojo seda 2 lb,Abarrotes,San Miguel,Suministros de Oriente,210,2.59,45,2026-09-14
+PRD-0010,Azúcar blanca 5 lb,Abarrotes,San Miguel,Mayoreo Centroamericano,189,3.21,44,2026-09-16
+PRD-0012,Azúcar blanca 5 lb,Abarrotes,San Miguel,Distribuidora Cuscatlán,182,3.28,58,2026-09-15
+PRD-0013,Azúcar blanca 5 lb,Abarrotes,San Miguel,Grupo Comercial Lempa,99,3.71,36,2026-08-24
+PRD-0014,Aceite vegetal 1 L,Abarrotes,San Miguel,Distribuidora Cuscatlán,77,3.13,46,2026-08-16
+PRD-0015,Aceite vegetal 1 L,Abarrotes,San Miguel,Suministros de Oriente,170,3.46,30,2026-10-14
+PRD-0016,Aceite vegetal 1 L,Abarrotes,San Miguel,Grupo Comercial Lempa,149,3.32,39,2026-10-07
+PRD-0017,Aceite vegetal 1 L,Abarrotes,San Miguel,Mayoreo Centroamericano,257,3.05,32,2026-09-11
+PRD-0018,Aceite vegetal 1 L,Abarrotes,San Miguel,Importadora del Pacífico,97,3.32,37,2026-08-04
+PRD-0019,Café molido 400 g,Abarrotes,San Miguel,Grupo Comercial Lempa,133,6.1,59,2026-09-25
+PRD-0020,Café molido 400 g,Abarrotes,San Miguel,Distribuidora Cuscatlán,131,5.96,46,2026-09-14
+PRD-0021,Café molido 400 g,Abarrotes,San Miguel,Importadora del Pacífico,160,5.65,40,2026-08-06
+PRD-0022,Café molido 400 g,Abarrotes,San Miguel,Suministros de Oriente,237,5.8,42,2026-08-13
+PRD-0023,Harina de maíz 2 lb,Abarrotes,San Miguel,Distribuidora Cuscatlán,119,2.1,30,2026-08-24
+PRD-0025,Harina de maíz 2 lb,Abarrotes,San Miguel,Importadora del Pacífico,226,1.97,39,2026-09-10
+PRD-0026,Harina de maíz 2 lb,Abarrotes,San Miguel,Suministros de Oriente,242,1.8,35,2026-09-30
+PRD-0027,Harina de maíz 2 lb,Abarrotes,San Miguel,Grupo Comercial Lempa,140,2.18,57,2026-10-01
+PRD-0029,Pasta espagueti 500 g,Abarrotes,San Miguel,Distribuidora Cuscatlán,241,1.18,42,2026-06-30
+PRD-0030,Pasta espagueti 500 g,Abarrotes,San Miguel,Suministros de Oriente,29,1.22,58,2026-09-05
+PRD-0031,Pasta espagueti 500 g,Abarrotes,San Miguel,Importadora del Pacífico,82,1.14,56,2026-06-25
+PRD-0032,Leche en polvo 800 g,Abarrotes,San Miguel,Grupo Comercial Lempa,187,8.56,33,2026-09-09
+PRD-0034,Leche en polvo 800 g,Abarrotes,San Miguel,Importadora del Pacífico,154,8.19,40,2026-05-17
+PRD-0035,Leche en polvo 800 g,Abarrotes,San Miguel,Distribuidora Cuscatlán,244,9.19,30,2026-09-23
+PRD-0036,Sal yodada 1 kg,Abarrotes,San Miguel,Importadora del Pacífico,60,0.61,57,2026-08-02
+PRD-0037,Sal yodada 1 kg,Abarrotes,San Miguel,Distribuidora Cuscatlán,203,0.72,37,2026-09-29
+PRD-0038,Sal yodada 1 kg,Abarrotes,San Miguel,Suministros de Oriente,61,0.68,53,2026-08-17
+PRD-0041,Atún en agua 140 g,Abarrotes,San Miguel,Grupo Comercial Lempa,101,1.43,48,2026-07-04
+PRD-0042,Atún en agua 140 g,Abarrotes,San Miguel,Suministros de Oriente,113,1.55,40,2026-08-31
+PRD-0043,Atún en agua 140 g,Abarrotes,San Miguel,Distribuidora Cuscatlán,216,1.5,32,2026-09-25
+PRD-0044,Atún en agua 140 g,Abarrotes,San Miguel,Importadora del Pacífico,71,1.58,40,2026-09-26
+PRD-0045,Atún en agua 140 g,Abarrotes,San Miguel,Mayoreo Centroamericano,182,1.41,48,2026-05-10
+PRD-0046,Agua purificada 1.5 L,Bebidas,San Miguel,Grupo Comercial Lempa,138,0.82,33,2026-09-13
+PRD-0047,Agua purificada 1.5 L,Bebidas,San Miguel,Importadora del Pacífico,219,0.78,25,2026-08-21
+PRD-0048,Agua purificada 1.5 L,Bebidas,San Miguel,Mayoreo Centroamericano,104,0.87,35,2026-10-02
+PRD-0049,Agua purificada 1.5 L,Bebidas,San Miguel,Suministros de Oriente,194,0.86,30,2026-04-28
+PRD-0050,Gaseosa 2 L,Bebidas,San Miguel,Grupo Comercial Lempa,91,1.81,32,2026-07-17
+PRD-0051,Gaseosa 2 L,Bebidas,San Miguel,Mayoreo Centroamericano,169,2.04,32,2026-09-10
+PRD-0053,Gaseosa 2 L,Bebidas,San Miguel,Suministros de Oriente,193,1.99,29,2026-09-08
+PRD-0054,Gaseosa 2 L,Bebidas,San Miguel,Importadora del Pacífico,85,2.05,48,2026-10-03
+PRD-0055,Jugo de naranja 1 L,Bebidas,San Miguel,Distribuidora Cuscatlán,218,2.55,42,2026-10-04
+PRD-0057,Jugo de naranja 1 L,Bebidas,San Miguel,Suministros de Oriente,84,2.43,42,2026-09-24
+PRD-0058,Jugo de naranja 1 L,Bebidas,San Miguel,Mayoreo Centroamericano,202,2.33,28,2026-09-17
+PRD-0060,Bebida energética 473 ml,Bebidas,San Miguel,Suministros de Oriente,184,1.94,44,2026-10-01
+PRD-0061,Bebida energética 473 ml,Bebidas,San Miguel,Mayoreo Centroamericano,147,2.31,31,2026-08-21
+PRD-0062,Bebida energética 473 ml,Bebidas,San Miguel,Distribuidora Cuscatlán,213,2.04,26,2026-06-12
+PRD-0063,Bebida energética 473 ml,Bebidas,San Miguel,Importadora del Pacífico,86,2.0,39,2026-09-07
+PRD-0064,Té frío 500 ml,Bebidas,San Miguel,Grupo Comercial Lempa,92,1.23,29,2026-08-31
+PRD-0065,Té frío 500 ml,Bebidas,San Miguel,Distribuidora Cuscatlán,118,1.18,31,2026-09-16
+PRD-0066,Té frío 500 ml,Bebidas,San Miguel,Mayoreo Centroamericano,7,1.1,35,2026-09-28
+PRD-0067,Té frío 500 ml,Bebidas,San Miguel,Importadora del Pacífico,152,1.23,31,2026-09-13
+PRD-0070,Horchata en polvo 400 g,Bebidas,San Miguel,Mayoreo Centroamericano,22,3.33,42,2026-09-03
+PRD-0071,Horchata en polvo 400 g,Bebidas,San Miguel,Importadora del Pacífico,155,3.59,48,2026-09-07
+PRD-0072,Horchata en polvo 400 g,Bebidas,San Miguel,Grupo Comercial Lempa,208,2.98,46,2026-09-12
+PRD-0073,Horchata en polvo 400 g,Bebidas,San Miguel,Distribuidora Cuscatlán,191,3.04,46,2026-10-04
+PRD-0074,Café instantáneo 200 g,Bebidas,San Miguel,Mayoreo Centroamericano,187,6.96,28,2026-09-13
+PRD-0075,Café instantáneo 200 g,Bebidas,San Miguel,Grupo Comercial Lempa,25,6.15,49,2026-09-29
+PRD-0076,Café instantáneo 200 g,Bebidas,San Miguel,Importadora del Pacífico,53,6.64,36,2026-09-15
+PRD-0078,Jabón de tocador 3 un.,Higiene Personal,San Miguel,Mayoreo Centroamericano,137,2.45,34,2026-07-30
+PRD-0079,Jabón de tocador 3 un.,Higiene Personal,San Miguel,Grupo Comercial Lempa,67,2.55,31,2026-09-25
+PRD-0080,Jabón de tocador 3 un.,Higiene Personal,San Miguel,Suministros de Oriente,2,2.47,28,2026-09-27
+PRD-0081,Jabón de tocador 3 un.,Higiene Personal,San Miguel,Importadora del Pacífico,85,2.3,38,2026-09-25
+PRD-0082,Champú 400 ml,Higiene Personal,San Miguel,Mayoreo Centroamericano,107,5.11,24,2026-07-25
+PRD-0083,Champú 400 ml,Higiene Personal,San Miguel,Distribuidora Cuscatlán,115,5.13,33,2026-10-03
+PRD-0084,Champú 400 ml,Higiene Personal,San Miguel,Importadora del Pacífico,78,4.4,35,2026-08-17
+PRD-0085,Champú 400 ml,Higiene Personal,San Miguel,Grupo Comercial Lempa,100,4.54,37,2026-07-26
+PRD-0087,Pasta dental 150 ml,Higiene Personal,San Miguel,Importadora del Pacífico,59,2.49,21,2026-08-28
+PRD-0089,Pasta dental 150 ml,Higiene Personal,San Miguel,Suministros de Oriente,80,3.03,29,2026-04-22
+PRD-0090,Pasta dental 150 ml,Higiene Personal,San Miguel,Grupo Comercial Lempa,119,2.58,31,2026-09-23
+PRD-0091,Desodorante 50 ml,Higiene Personal,San Miguel,Distribuidora Cuscatlán,15,3.92,28,2026-08-19
+PRD-0092,Desodorante 50 ml,Higiene Personal,San Miguel,Importadora del Pacífico,175,4.05,26,2026-09-05
+PRD-0093,Desodorante 50 ml,Higiene Personal,San Miguel,Mayoreo Centroamericano,16,4.4,23,2026-09-16
+PRD-0094,Desodorante 50 ml,Higiene Personal,San Miguel,Suministros de Oriente,95,4.33,31,2026-03-21
+PRD-0096,Papel higiénico 12 rollos,Higiene Personal,San Miguel,Suministros de Oriente,179,6.27,34,2026-05-21
+PRD-0097,Papel higiénico 12 rollos,Higiene Personal,San Miguel,Importadora del Pacífico,115,6.37,33,2026-07-29
+PRD-0098,Papel higiénico 12 rollos,Higiene Personal,San Miguel,Grupo Comercial Lempa,129,6.47,32,2026-07-12
+PRD-0099,Papel higiénico 12 rollos,Higiene Personal,San Miguel,Mayoreo Centroamericano,98,7.2,35,2026-07-18
+PRD-0100,Toallas húmedas 80 un.,Higiene Personal,San Miguel,Suministros de Oriente,169,2.93,29,2026-08-02
+PRD-0101,Toallas húmedas 80 un.,Higiene Personal,San Miguel,Grupo Comercial Lempa,2,2.96,24,2026-09-19
+PRD-0102,Toallas húmedas 80 un.,Higiene Personal,San Miguel,Mayoreo Centroamericano,76,3.58,24,2026-10-01
+PRD-0103,Toallas húmedas 80 un.,Higiene Personal,San Miguel,Importadora del Pacífico,153,2.99,26,2026-03-28
+PRD-0104,Toallas húmedas 80 un.,Higiene Personal,San Miguel,Distribuidora Cuscatlán,128,3.52,22,2026-09-05
+PRD-0107,Cepillo dental,Higiene Personal,San Miguel,Importadora del Pacífico,114,1.62,24,2026-07-27
+PRD-0108,Cepillo dental,Higiene Personal,San Miguel,Grupo Comercial Lempa,50,1.72,28,2026-09-23
+PRD-0110,Juego de sartenes 3 pzs,Hogar,San Miguel,Suministros de Oriente,70,31.76,18,2026-09-04
+PRD-0111,Juego de sartenes 3 pzs,Hogar,San Miguel,Importadora del Pacífico,103,38.61,17,2026-08-09
+PRD-0112,Juego de sartenes 3 pzs,Hogar,San Miguel,Distribuidora Cuscatlán,65,37.07,24,2026-10-05
+PRD-0113,Vajilla 16 piezas,Hogar,San Miguel,Grupo Comercial Lempa,10,41.34,23,2026-07-23
+PRD-0114,Vajilla 16 piezas,Hogar,San Miguel,Mayoreo Centroamericano,92,45.32,16,2026-09-07
+PRD-0115,Vajilla 16 piezas,Hogar,San Miguel,Importadora del Pacífico,6,39.85,16,2026-06-10
+PRD-0116,Vajilla 16 piezas,Hogar,San Miguel,Distribuidora Cuscatlán,9,44.77,11,2026-10-05
+PRD-0117,Detergente en polvo 2 kg,Hogar,San Miguel,Mayoreo Centroamericano,30,7.92,20,2026-07-23
+PRD-0118,Detergente en polvo 2 kg,Hogar,San Miguel,Grupo Comercial Lempa,23,7.74,21,2026-09-15
+PRD-0119,Detergente en polvo 2 kg,Hogar,San Miguel,Importadora del Pacífico,66,7.63,14,2026-09-28
+PRD-0120,Detergente en polvo 2 kg,Hogar,San Miguel,Suministros de Oriente,101,7.76,23,2026-08-26
+PRD-0121,Desinfectante 1 gal,Hogar,San Miguel,Grupo Comercial Lempa,32,6.33,18,2026-09-29
+PRD-0122,Desinfectante 1 gal,Hogar,San Miguel,Suministros de Oriente,93,6.65,20,2026-09-06
+PRD-0123,Desinfectante 1 gal,Hogar,San Miguel,Distribuidora Cuscatlán,70,6.09,23,2026-09-01
+PRD-0125,Escoba de cerdas,Hogar,San Miguel,Mayoreo Centroamericano,50,4.5,11,2026-09-08
+PRD-0126,Escoba de cerdas,Hogar,San Miguel,Distribuidora Cuscatlán,31,4.23,10,2026-09-20
+PRD-0127,Escoba de cerdas,Hogar,San Miguel,Grupo Comercial Lempa,89,4.88,24,2026-09-14
+PRD-0128,Escoba de cerdas,Hogar,San Miguel,Importadora del Pacífico,69,4.93,17,2026-06-13
+PRD-0129,Cortina de baño,Hogar,San Miguel,Distribuidora Cuscatlán,101,9.1,11,2026-10-01
+PRD-0130,Cortina de baño,Hogar,San Miguel,Grupo Comercial Lempa,10,10.74,21,2026-09-11
+PRD-0131,Cortina de baño,Hogar,San Miguel,Mayoreo Centroamericano,98,9.74,22,2026-09-26
+PRD-0132,Cortina de baño,Hogar,San Miguel,Suministros de Oriente,108,10.45,20,2026-08-31
+PRD-0133,Cortina de baño,Hogar,San Miguel,Importadora del Pacífico,105,10.54,17,2026-09-11
+PRD-0134,Juego de sábanas matrimonial,Hogar,San Miguel,Distribuidora Cuscatlán,73,26.14,22,2026-07-30
+PRD-0135,Juego de sábanas matrimonial,Hogar,San Miguel,Importadora del Pacífico,66,26.67,23,2026-09-26
+PRD-0136,Juego de sábanas matrimonial,Hogar,San Miguel,Grupo Comercial Lempa,41,28.35,17,2026-09-29
+PRD-0138,Almohada estándar,Hogar,San Miguel,Importadora del Pacífico,75,12.65,23,2026-10-03
+PRD-0140,Almohada estándar,Hogar,San Miguel,Grupo Comercial Lempa,58,12.23,19,2026-09-03
+PRD-0141,Almohada estándar,Hogar,San Miguel,Suministros de Oriente,27,11.69,21,2026-10-08
+PRD-0142,Almohada estándar,Hogar,San Miguel,Mayoreo Centroamericano,107,10.86,17,2026-07-08
+PRD-0143,Martillo de uña 16 oz,Ferretería,San Miguel,Importadora del Pacífico,34,9.66,6,2026-09-17
+PRD-0144,Martillo de uña 16 oz,Ferretería,San Miguel,Mayoreo Centroamericano,15,8.83,8,2026-09-22
+PRD-0145,Martillo de uña 16 oz,Ferretería,San Miguel,Grupo Comercial Lempa,40,9.4,13,2026-06-21
+PRD-0147,Martillo de uña 16 oz,Ferretería,San Miguel,Distribuidora Cuscatlán,61,9.88,9,2026-09-28
+PRD-0148,Juego de destornilladores,Ferretería,San Miguel,Importadora del Pacífico,4,14.26,17,2026-09-11
+PRD-0149,Juego de destornilladores,Ferretería,San Miguel,Distribuidora Cuscatlán,3,15.84,11,2026-10-11
+PRD-0150,Juego de destornilladores,Ferretería,San Miguel,Grupo Comercial Lempa,1,16.22,7,2026-07-05
+PRD-0151,Juego de destornilladores,Ferretería,San Miguel,Mayoreo Centroamericano,62,13.73,16,2026-09-03
+PRD-0152,Juego de destornilladores,Ferretería,San Miguel,Suministros de Oriente,35,13.35,10,2026-09-15
+PRD-0153,Taladro percutor 600 W,Ferretería,San Miguel,Importadora del Pacífico,15,66.58,16,2026-07-24
+PRD-0154,Taladro percutor 600 W,Ferretería,San Miguel,Grupo Comercial Lempa,25,64.73,16,2026-09-26
+PRD-0155,Taladro percutor 600 W,Ferretería,San Miguel,Distribuidora Cuscatlán,12,61.65,13,2026-08-18
+PRD-0156,Taladro percutor 600 W,Ferretería,San Miguel,Suministros de Oriente,22,69.06,17,2026-09-04
+PRD-0157,Taladro percutor 600 W,Ferretería,San Miguel,Mayoreo Centroamericano,37,61.93,11,2026-09-15
+PRD-0158,Cinta métrica 5 m,Ferretería,San Miguel,Suministros de Oriente,44,5.57,12,2026-07-28
+PRD-0159,Cinta métrica 5 m,Ferretería,San Miguel,Importadora del Pacífico,60,5.76,7,2026-07-06
+PRD-0160,Cinta métrica 5 m,Ferretería,San Miguel,Mayoreo Centroamericano,43,5.3,9,2026-09-18
+PRD-0161,Cinta métrica 5 m,Ferretería,San Miguel,Distribuidora Cuscatlán,78,5.31,13,2026-07-11
+PRD-0162,Pintura látex 1 gal,Ferretería,San Miguel,Importadora del Pacífico,10,23.72,14,2026-07-29
+PRD-0164,Pintura látex 1 gal,Ferretería,San Miguel,Mayoreo Centroamericano,30,21.89,12,2026-09-17
+PRD-0165,Pintura látex 1 gal,Ferretería,San Miguel,Distribuidora Cuscatlán,0,20.78,10,2026-08-31
+PRD-0166,Extensión eléctrica 5 m,Ferretería,San Miguel,Distribuidora Cuscatlán,53,8.77,6,2026-09-24
+PRD-0167,Extensión eléctrica 5 m,Ferretería,San Miguel,Mayoreo Centroamericano,45,7.81,10,2026-09-27
+PRD-0168,Extensión eléctrica 5 m,Ferretería,San Miguel,Suministros de Oriente,76,9.07,16,2026-07-10
+PRD-0169,Extensión eléctrica 5 m,Ferretería,San Miguel,Grupo Comercial Lempa,86,8.68,11,2026-09-30
+PRD-0170,Extensión eléctrica 5 m,Ferretería,San Miguel,Importadora del Pacífico,33,7.47,10,2026-09-08
+PRD-0171,Candado de seguridad,Ferretería,San Miguel,Grupo Comercial Lempa,25,11.29,6,2026-08-31
+PRD-0172,Candado de seguridad,Ferretería,San Miguel,Mayoreo Centroamericano,50,11.69,9,2026-05-31
+PRD-0173,Candado de seguridad,Ferretería,San Miguel,Suministros de Oriente,55,10.89,15,2026-08-12
+PRD-0174,Candado de seguridad,Ferretería,San Miguel,Importadora del Pacífico,55,10.75,12,2026-08-25
+PRD-0176,Foco LED 12 W,Ferretería,San Miguel,Distribuidora Cuscatlán,80,2.71,6,2026-09-18
+PRD-0177,Foco LED 12 W,Ferretería,San Miguel,Importadora del Pacífico,24,2.74,17,2026-09-30
+PRD-0178,Foco LED 12 W,Ferretería,San Miguel,Mayoreo Centroamericano,61,2.75,16,2026-09-30
+PRD-0179,Foco LED 12 W,Ferretería,San Miguel,Suministros de Oriente,56,2.85,15,2026-10-08
+PRD-0180,Audífonos Bluetooth,Electrónica,San Miguel,Distribuidora Cuscatlán,18,30.17,8,2026-09-17
+PRD-0182,Audífonos Bluetooth,Electrónica,San Miguel,Importadora del Pacífico,41,31.88,4,2026-09-30
+PRD-0183,Audífonos Bluetooth,Electrónica,San Miguel,Grupo Comercial Lempa,7,28.35,9,2026-07-31
+PRD-0184,Audífonos Bluetooth,Electrónica,San Miguel,Suministros de Oriente,6,30.87,7,2026-08-20
+PRD-0185,Parlante portátil,Electrónica,San Miguel,Suministros de Oriente,3,43.78,6,2026-09-07
+PRD-0187,Parlante portátil,Electrónica,San Miguel,Mayoreo Centroamericano,34,47.74,7,2026-09-13
+PRD-0188,Parlante portátil,Electrónica,San Miguel,Importadora del Pacífico,42,41.44,4,2026-08-14
+PRD-0189,Cargador USB-C 25 W,Electrónica,San Miguel,Grupo Comercial Lempa,24,14.41,4,2026-10-09
+PRD-0191,Cargador USB-C 25 W,Electrónica,San Miguel,Importadora del Pacífico,32,13.96,7,2026-07-15
+PRD-0193,Cargador USB-C 25 W,Electrónica,San Miguel,Mayoreo Centroamericano,35,16.24,5,2026-08-22
+PRD-0194,Mouse inalámbrico,Electrónica,San Miguel,Mayoreo Centroamericano,14,14.12,8,2026-08-28
+PRD-0195,Mouse inalámbrico,Electrónica,San Miguel,Distribuidora Cuscatlán,12,12.34,6,2026-09-01
+PRD-0196,Mouse inalámbrico,Electrónica,San Miguel,Grupo Comercial Lempa,5,12.26,8,2026-09-22
+PRD-0197,Mouse inalámbrico,Electrónica,San Miguel,Suministros de Oriente,10,12.74,3,2026-06-27
+PRD-0199,Memoria USB 64 GB,Electrónica,San Miguel,Suministros de Oriente,2,9.25,8,2026-09-14
+PRD-0201,Memoria USB 64 GB,Electrónica,San Miguel,Importadora del Pacífico,2,10.61,6,2026-08-23
+PRD-0202,Memoria USB 64 GB,Electrónica,San Miguel,Mayoreo Centroamericano,11,10.48,9,2026-10-05
+PRD-0203,Memoria USB 64 GB,Electrónica,San Miguel,Distribuidora Cuscatlán,35,10.69,8,2026-08-15
+PRD-0204,Router WiFi doble banda,Electrónica,San Miguel,Suministros de Oriente,32,51.77,9,2026-04-16
+PRD-0205,Router WiFi doble banda,Electrónica,San Miguel,Grupo Comercial Lempa,28,59.22,9,2026-09-24
+PRD-0206,Router WiFi doble banda,Electrónica,San Miguel,Mayoreo Centroamericano,20,49.28,5,2026-10-04
+PRD-0207,Router WiFi doble banda,Electrónica,San Miguel,Importadora del Pacífico,21,52.05,5,2026-09-12
+PRD-0208,Router WiFi doble banda,Electrónica,San Miguel,Distribuidora Cuscatlán,6,49.83,5,2026-08-20
+PRD-0210,Tablet 10 pulgadas,Electrónica,San Miguel,Distribuidora Cuscatlán,39,192.72,8,2026-09-25
+PRD-0211,Tablet 10 pulgadas,Electrónica,San Miguel,Suministros de Oriente,42,190.71,9,2026-10-13
+PRD-0212,Tablet 10 pulgadas,Electrónica,San Miguel,Importadora del Pacífico,42,194.69,9,2026-09-24
+PRD-0213,Tablet 10 pulgadas,Electrónica,San Miguel,Grupo Comercial Lempa,15,174.89,6,2026-08-12
+PRD-0214,Smartphone gama media,Electrónica,San Miguel,Suministros de Oriente,43,272.74,9,2026-06-28
+PRD-0215,Smartphone gama media,Electrónica,San Miguel,Grupo Comercial Lempa,5,309.08,7,2026-07-28
+PRD-0216,Smartphone gama media,Electrónica,San Miguel,Importadora del Pacífico,29,311.14,5,2026-07-29
+PRD-0217,Smartphone gama media,Electrónica,San Miguel,Mayoreo Centroamericano,34,308.53,4,2026-09-13
+PRD-0218,Smart TV 43 pulgadas,Electrónica,San Miguel,Mayoreo Centroamericano,8,371.96,3,2026-10-01
+PRD-0219,Smart TV 43 pulgadas,Electrónica,San Miguel,Grupo Comercial Lempa,21,355.57,4,2026-08-03
+PRD-0220,Smart TV 43 pulgadas,Electrónica,San Miguel,Suministros de Oriente,36,322.66,3,2026-07-06
+PRD-0221,Smart TV 43 pulgadas,Electrónica,San Miguel,Importadora del Pacífico,8,359.8,8,2026-09-01
+PRD-0222,Licuadora 600 W,Electrodomésticos,San Miguel,Suministros de Oriente,2,53.28,2,2026-10-01
+PRD-0223,Licuadora 600 W,Electrodomésticos,San Miguel,Importadora del Pacífico,3,46.98,4,2026-10-08
+PRD-0224,Licuadora 600 W,Electrodomésticos,San Miguel,Distribuidora Cuscatlán,4,48.72,5,2026-07-21
+PRD-0225,Licuadora 600 W,Electrodomésticos,San Miguel,Mayoreo Centroamericano,18,54.34,4,2026-09-03
+PRD-0226,Microondas 0.9 pies,Electrodomésticos,San Miguel,Importadora del Pacífico,27,102.22,5,2026-10-05
+PRD-0228,Microondas 0.9 pies,Electrodomésticos,San Miguel,Suministros de Oriente,24,93.96,5,2026-08-15
+PRD-0229,Microondas 0.9 pies,Electrodomésticos,San Miguel,Distribuidora Cuscatlán,6,100.32,4,2026-08-23
+PRD-0230,Refrigeradora 10 pies,Electrodomésticos,San Miguel,Mayoreo Centroamericano,29,485.24,4,2026-09-19
+PRD-0231,Refrigeradora 10 pies,Electrodomésticos,San Miguel,Suministros de Oriente,6,545.16,3,2026-10-07
+PRD-0232,Refrigeradora 10 pies,Electrodomésticos,San Miguel,Grupo Comercial Lempa,1,512.68,2,2026-09-28
+PRD-0234,Lavadora 18 lb,Electrodomésticos,San Miguel,Importadora del Pacífico,8,412.93,4,2026-09-27
+PRD-0235,Lavadora 18 lb,Electrodomésticos,San Miguel,Mayoreo Centroamericano,4,436.26,2,2026-08-30
+PRD-0236,Lavadora 18 lb,Electrodomésticos,San Miguel,Grupo Comercial Lempa,11,391.67,5,2026-08-25
+PRD-0237,Lavadora 18 lb,Electrodomésticos,San Miguel,Suministros de Oriente,7,452.96,2,2026-04-19
+PRD-0238,Cafetera 12 tazas,Electrodomésticos,San Miguel,Distribuidora Cuscatlán,12,32.16,2,2026-09-16
+PRD-0239,Cafetera 12 tazas,Electrodomésticos,San Miguel,Grupo Comercial Lempa,0,30.17,4,2026-08-08
+PRD-0240,Cafetera 12 tazas,Electrodomésticos,San Miguel,Mayoreo Centroamericano,26,35.42,2,2026-08-25
+PRD-0241,Cafetera 12 tazas,Electrodomésticos,San Miguel,Importadora del Pacífico,17,31.93,3,2026-09-09
+PRD-0242,Plancha de vapor,Electrodomésticos,San Miguel,Grupo Comercial Lempa,4,23.3,5,2026-09-09
+PRD-0243,Plancha de vapor,Electrodomésticos,San Miguel,Suministros de Oriente,21,26.65,2,2026-09-20
+PRD-0244,Plancha de vapor,Electrodomésticos,San Miguel,Distribuidora Cuscatlán,3,24.51,3,2026-09-27
+PRD-0245,Plancha de vapor,Electrodomésticos,San Miguel,Importadora del Pacífico,23,22.77,5,2026-09-06
+PRD-0246,Ventilador de pedestal,Electrodomésticos,San Miguel,Mayoreo Centroamericano,1,40.38,5,2026-09-06
+PRD-0247,Ventilador de pedestal,Electrodomésticos,San Miguel,Distribuidora Cuscatlán,4,43.87,2,2026-08-08
+PRD-0248,Ventilador de pedestal,Electrodomésticos,San Miguel,Importadora del Pacífico,17,41.16,2,2026-07-27
+PRD-0249,Ventilador de pedestal,Electrodomésticos,San Miguel,Suministros de Oriente,25,41.48,2,2026-09-25
+PRD-0250,Ventilador de pedestal,Electrodomésticos,San Miguel,Grupo Comercial Lempa,2,36.73,5,2026-09-30
+PRD-0251,Olla arrocera 1.8 L,Electrodomésticos,San Miguel,Suministros de Oriente,14,31.18,3,2026-08-04
+PRD-0252,Olla arrocera 1.8 L,Electrodomésticos,San Miguel,Distribuidora Cuscatlán,20,27.91,4,2026-07-19
+PRD-0253,Olla arrocera 1.8 L,Electrodomésticos,San Miguel,Importadora del Pacífico,8,30.88,2,2026-09-12
+PRD-0254,Olla arrocera 1.8 L,Electrodomésticos,San Miguel,Grupo Comercial Lempa,23,31.28,5,2026-08-17
+PRD-0255,Olla arrocera 1.8 L,Electrodomésticos,San Miguel,Mayoreo Centroamericano,18,28.96,5,2026-10-01
+PRD-0256,Cocina de gas 4 quemadores,Electrodomésticos,San Miguel,Mayoreo Centroamericano,11,253.16,5,2026-07-12
+PRD-0257,Cocina de gas 4 quemadores,Electrodomésticos,San Miguel,Distribuidora Cuscatlán,20,248.68,2,2026-10-03
+PRD-0260,Cocina de gas 4 quemadores,Electrodomésticos,San Miguel,Importadora del Pacífico,17,285.67,5,2026-08-15
+PRD-0001,Arroz blanco 5 lb,Abarrotes,San Salvador,Suministros de Oriente,91,4.56,40,2026-05-16
+PRD-0002,Arroz blanco 5 lb,Abarrotes,San Salvador,Mayoreo Centroamericano,349,4.67,51,2026-09-15
+PRD-0003,Arroz blanco 5 lb,Abarrotes,San Salvador,Importadora del Pacífico,32,4.44,35,2026-10-01
+PRD-0004,Arroz blanco 5 lb,Abarrotes,San Salvador,Distribuidora Cuscatlán,31,4.1,34,2026-09-04
+PRD-0005,Arroz blanco 5 lb,Abarrotes,San Salvador,Grupo Comercial Lempa,42,4.69,59,2026-07-28
+PRD-0006,Frijol rojo seda 2 lb,Abarrotes,San Salvador,Importadora del Pacífico,107,2.6,43,2026-08-13
+PRD-0007,Frijol rojo seda 2 lb,Abarrotes,San Salvador,Distribuidora Cuscatlán,20,2.5,40,2026-07-15
+PRD-0008,Frijol rojo seda 2 lb,Abarrotes,San Salvador,Grupo Comercial Lempa,352,2.47,55,2026-08-09
+PRD-0009,Frijol rojo seda 2 lb,Abarrotes,San Salvador,Suministros de Oriente,374,2.59,45,2026-09-19
+PRD-0010,Azúcar blanca 5 lb,Abarrotes,San Salvador,Mayoreo Centroamericano,299,3.21,44,2026-10-10
+PRD-0011,Azúcar blanca 5 lb,Abarrotes,San Salvador,Importadora del Pacífico,309,3.39,47,2026-10-06
+PRD-0012,Azúcar blanca 5 lb,Abarrotes,San Salvador,Distribuidora Cuscatlán,257,3.28,58,2026-06-29
+PRD-0013,Azúcar blanca 5 lb,Abarrotes,San Salvador,Grupo Comercial Lempa,158,3.71,36,2026-08-21
+PRD-0014,Aceite vegetal 1 L,Abarrotes,San Salvador,Distribuidora Cuscatlán,96,3.13,46,2026-09-13
+PRD-0015,Aceite vegetal 1 L,Abarrotes,San Salvador,Suministros de Oriente,5,3.46,30,2026-09-23
+PRD-0016,Aceite vegetal 1 L,Abarrotes,San Salvador,Grupo Comercial Lempa,360,3.32,39,2026-10-01
+PRD-0017,Aceite vegetal 1 L,Abarrotes,San Salvador,Mayoreo Centroamericano,141,3.05,32,2026-09-19
+PRD-0018,Aceite vegetal 1 L,Abarrotes,San Salvador,Importadora del Pacífico,297,3.32,37,2026-10-14
+PRD-0019,Café molido 400 g,Abarrotes,San Salvador,Grupo Comercial Lempa,58,6.1,59,2026-09-12
+PRD-0020,Café molido 400 g,Abarrotes,San Salvador,Distribuidora Cuscatlán,37,5.96,46,2026-09-23
+PRD-0021,Café molido 400 g,Abarrotes,San Salvador,Importadora del Pacífico,273,5.65,40,2026-10-05
+PRD-0022,Café molido 400 g,Abarrotes,San Salvador,Suministros de Oriente,229,5.8,42,2026-08-17
+PRD-0023,Harina de maíz 2 lb,Abarrotes,San Salvador,Distribuidora Cuscatlán,187,2.1,30,2026-08-09
+PRD-0024,Harina de maíz 2 lb,Abarrotes,San Salvador,Mayoreo Centroamericano,373,1.98,52,2026-08-06
+PRD-0025,Harina de maíz 2 lb,Abarrotes,San Salvador,Importadora del Pacífico,10,1.97,39,2026-08-29
+PRD-0026,Harina de maíz 2 lb,Abarrotes,San Salvador,Suministros de Oriente,310,1.8,35,2026-08-29
+PRD-0027,Harina de maíz 2 lb,Abarrotes,San Salvador,Grupo Comercial Lempa,325,2.18,57,2026-09-24
+PRD-0028,Pasta espagueti 500 g,Abarrotes,San Salvador,Grupo Comercial Lempa,194,1.13,48,2026-09-06
+PRD-0029,Pasta espagueti 500 g,Abarrotes,San Salvador,Distribuidora Cuscatlán,354,1.18,42,2026-07-28
+PRD-0030,Pasta espagueti 500 g,Abarrotes,San Salvador,Suministros de Oriente,96,1.22,58,2026-08-25
+PRD-0031,Pasta espagueti 500 g,Abarrotes,San Salvador,Importadora del Pacífico,341,1.14,56,2026-06-23
+PRD-0032,Leche en polvo 800 g,Abarrotes,San Salvador,Grupo Comercial Lempa,360,8.56,33,2026-10-06
+PRD-0033,Leche en polvo 800 g,Abarrotes,San Salvador,Suministros de Oriente,155,8.96,50,2026-10-05
+PRD-0034,Leche en polvo 800 g,Abarrotes,San Salvador,Importadora del Pacífico,10,8.19,40,2026-09-20
+PRD-0035,Leche en polvo 800 g,Abarrotes,San Salvador,Distribuidora Cuscatlán,245,9.19,30,2026-09-30
+PRD-0036,Sal yodada 1 kg,Abarrotes,San Salvador,Importadora del Pacífico,360,0.61,57,2026-07-27
+PRD-0037,Sal yodada 1 kg,Abarrotes,San Salvador,Distribuidora Cuscatlán,193,0.72,37,2026-09-20
+PRD-0038,Sal yodada 1 kg,Abarrotes,San Salvador,Suministros de Oriente,99,0.68,53,2026-09-13
+PRD-0039,Sal yodada 1 kg,Abarrotes,San Salvador,Mayoreo Centroamericano,316,0.68,32,2026-09-21
+PRD-0040,Sal yodada 1 kg,Abarrotes,San Salvador,Grupo Comercial Lempa,180,0.72,46,2026-09-28
+PRD-0041,Atún en agua 140 g,Abarrotes,San Salvador,Grupo Comercial Lempa,204,1.43,48,2026-08-31
+PRD-0042,Atún en agua 140 g,Abarrotes,San Salvador,Suministros de Oriente,287,1.55,40,2026-08-21
+PRD-0043,Atún en agua 140 g,Abarrotes,San Salvador,Distribuidora Cuscatlán,293,1.5,32,2026-03-22
+PRD-0044,Atún en agua 140 g,Abarrotes,San Salvador,Importadora del Pacífico,157,1.58,40,2026-08-13
+PRD-0045,Atún en agua 140 g,Abarrotes,San Salvador,Mayoreo Centroamericano,180,1.41,48,2026-07-05
+PRD-0046,Agua purificada 1.5 L,Bebidas,San Salvador,Grupo Comercial Lempa,220,0.82,33,2026-08-24
+PRD-0047,Agua purificada 1.5 L,Bebidas,San Salvador,Importadora del Pacífico,167,0.78,25,2026-08-29
+PRD-0048,Agua purificada 1.5 L,Bebidas,San Salvador,Mayoreo Centroamericano,299,0.87,35,2026-07-05
+PRD-0049,Agua purificada 1.5 L,Bebidas,San Salvador,Suministros de Oriente,190,0.86,30,2026-06-18
+PRD-0050,Gaseosa 2 L,Bebidas,San Salvador,Grupo Comercial Lempa,183,1.81,32,2026-10-12
+PRD-0051,Gaseosa 2 L,Bebidas,San Salvador,Mayoreo Centroamericano,116,2.04,32,2026-09-13
+PRD-0052,Gaseosa 2 L,Bebidas,San Salvador,Distribuidora Cuscatlán,307,1.96,45,2026-09-10
+PRD-0053,Gaseosa 2 L,Bebidas,San Salvador,Suministros de Oriente,287,1.99,29,2026-08-13
+PRD-0054,Gaseosa 2 L,Bebidas,San Salvador,Importadora del Pacífico,248,2.05,48,2026-09-28
+PRD-0055,Jugo de naranja 1 L,Bebidas,San Salvador,Distribuidora Cuscatlán,158,2.55,42,2026-09-03
+PRD-0056,Jugo de naranja 1 L,Bebidas,San Salvador,Grupo Comercial Lempa,229,2.29,42,2026-09-01
+PRD-0057,Jugo de naranja 1 L,Bebidas,San Salvador,Suministros de Oriente,90,2.43,42,2026-09-28
+PRD-0058,Jugo de naranja 1 L,Bebidas,San Salvador,Mayoreo Centroamericano,177,2.33,28,2026-09-05
+PRD-0059,Jugo de naranja 1 L,Bebidas,San Salvador,Importadora del Pacífico,293,2.3,27,2026-08-15
+PRD-0060,Bebida energética 473 ml,Bebidas,San Salvador,Suministros de Oriente,33,1.94,44,2026-07-19
+PRD-0061,Bebida energética 473 ml,Bebidas,San Salvador,Mayoreo Centroamericano,99,2.31,31,2026-08-28
+PRD-0062,Bebida energética 473 ml,Bebidas,San Salvador,Distribuidora Cuscatlán,84,2.04,26,2026-08-29
+PRD-0063,Bebida energética 473 ml,Bebidas,San Salvador,Importadora del Pacífico,164,2.0,39,2026-09-03
+PRD-0064,Té frío 500 ml,Bebidas,San Salvador,Grupo Comercial Lempa,258,1.23,29,2026-08-28
+PRD-0065,Té frío 500 ml,Bebidas,San Salvador,Distribuidora Cuscatlán,128,1.18,31,2026-09-04
+PRD-0066,Té frío 500 ml,Bebidas,San Salvador,Mayoreo Centroamericano,133,1.1,35,2026-08-23
+PRD-0067,Té frío 500 ml,Bebidas,San Salvador,Importadora del Pacífico,155,1.23,31,2026-09-29
+PRD-0068,Té frío 500 ml,Bebidas,San Salvador,Suministros de Oriente,130,1.05,34,2026-08-29
+PRD-0069,Horchata en polvo 400 g,Bebidas,San Salvador,Suministros de Oriente,277,3.16,30,2026-10-09
+PRD-0070,Horchata en polvo 400 g,Bebidas,San Salvador,Mayoreo Centroamericano,122,3.33,42,2026-08-08
+PRD-0071,Horchata en polvo 400 g,Bebidas,San Salvador,Importadora del Pacífico,116,3.59,48,2026-08-19
+PRD-0072,Horchata en polvo 400 g,Bebidas,San Salvador,Grupo Comercial Lempa,78,2.98,46,2026-07-14
+PRD-0073,Horchata en polvo 400 g,Bebidas,San Salvador,Distribuidora Cuscatlán,107,3.04,46,2026-09-25
+PRD-0074,Café instantáneo 200 g,Bebidas,San Salvador,Mayoreo Centroamericano,187,6.96,28,2026-07-31
+PRD-0075,Café instantáneo 200 g,Bebidas,San Salvador,Grupo Comercial Lempa,100,6.15,49,2026-08-21
+PRD-0076,Café instantáneo 200 g,Bebidas,San Salvador,Importadora del Pacífico,130,6.64,36,2026-09-05
+PRD-0077,Café instantáneo 200 g,Bebidas,San Salvador,Suministros de Oriente,220,5.87,43,2026-08-29
+PRD-0078,Jabón de tocador 3 un.,Higiene Personal,San Salvador,Mayoreo Centroamericano,129,2.45,34,2026-09-15
+PRD-0080,Jabón de tocador 3 un.,Higiene Personal,San Salvador,Suministros de Oriente,93,2.47,28,2026-09-22
+PRD-0081,Jabón de tocador 3 un.,Higiene Personal,San Salvador,Importadora del Pacífico,22,2.3,38,2026-07-17
+PRD-0082,Champú 400 ml,Higiene Personal,San Salvador,Mayoreo Centroamericano,104,5.11,24,2026-09-13
+PRD-0083,Champú 400 ml,Higiene Personal,San Salvador,Distribuidora Cuscatlán,86,5.13,33,2026-08-26
+PRD-0084,Champú 400 ml,Higiene Personal,San Salvador,Importadora del Pacífico,93,4.4,35,2026-07-16
+PRD-0085,Champú 400 ml,Higiene Personal,San Salvador,Grupo Comercial Lempa,117,4.54,37,2026-09-06
+PRD-0086,Champú 400 ml,Higiene Personal,San Salvador,Suministros de Oriente,10,5.25,37,2026-07-31
+PRD-0087,Pasta dental 150 ml,Higiene Personal,San Salvador,Importadora del Pacífico,77,2.49,21,2026-04-26
+PRD-0088,Pasta dental 150 ml,Higiene Personal,San Salvador,Distribuidora Cuscatlán,126,2.64,25,2026-10-06
+PRD-0089,Pasta dental 150 ml,Higiene Personal,San Salvador,Suministros de Oriente,104,3.03,29,2026-09-26
+PRD-0090,Pasta dental 150 ml,Higiene Personal,San Salvador,Grupo Comercial Lempa,62,2.58,31,2026-09-25
+PRD-0091,Desodorante 50 ml,Higiene Personal,San Salvador,Distribuidora Cuscatlán,67,3.92,28,2026-09-23
+PRD-0092,Desodorante 50 ml,Higiene Personal,San Salvador,Importadora del Pacífico,204,4.05,26,2026-09-29
+PRD-0093,Desodorante 50 ml,Higiene Personal,San Salvador,Mayoreo Centroamericano,99,4.4,23,2026-04-27
+PRD-0094,Desodorante 50 ml,Higiene Personal,San Salvador,Suministros de Oriente,15,4.33,31,2026-08-18
+PRD-0095,Papel higiénico 12 rollos,Higiene Personal,San Salvador,Distribuidora Cuscatlán,184,6.38,29,2026-09-30
+PRD-0096,Papel higiénico 12 rollos,Higiene Personal,San Salvador,Suministros de Oriente,75,6.27,34,2026-07-26
+PRD-0097,Papel higiénico 12 rollos,Higiene Personal,San Salvador,Importadora del Pacífico,117,6.37,33,2026-09-16
+PRD-0098,Papel higiénico 12 rollos,Higiene Personal,San Salvador,Grupo Comercial Lempa,190,6.47,32,2026-05-01
+PRD-0099,Papel higiénico 12 rollos,Higiene Personal,San Salvador,Mayoreo Centroamericano,96,7.2,35,2026-06-11
+PRD-0100,Toallas húmedas 80 un.,Higiene Personal,San Salvador,Suministros de Oriente,71,2.93,29,2026-09-23
+PRD-0101,Toallas húmedas 80 un.,Higiene Personal,San Salvador,Grupo Comercial Lempa,206,2.96,24,2026-08-08
+PRD-0102,Toallas húmedas 80 un.,Higiene Personal,San Salvador,Mayoreo Centroamericano,144,3.58,24,2026-08-15
+PRD-0103,Toallas húmedas 80 un.,Higiene Personal,San Salvador,Importadora del Pacífico,254,2.99,26,2026-06-04
+PRD-0104,Toallas húmedas 80 un.,Higiene Personal,San Salvador,Distribuidora Cuscatlán,154,3.52,22,2026-09-24
+PRD-0105,Cepillo dental,Higiene Personal,San Salvador,Suministros de Oriente,106,1.78,28,2026-09-17
+PRD-0106,Cepillo dental,Higiene Personal,San Salvador,Distribuidora Cuscatlán,64,1.79,31,2026-07-30
+PRD-0107,Cepillo dental,Higiene Personal,San Salvador,Importadora del Pacífico,167,1.62,24,2026-09-09
+PRD-0108,Cepillo dental,Higiene Personal,San Salvador,Grupo Comercial Lempa,23,1.72,28,2026-03-27
+PRD-0109,Juego de sartenes 3 pzs,Hogar,San Salvador,Grupo Comercial Lempa,88,38.13,10,2026-09-02
+PRD-0110,Juego de sartenes 3 pzs,Hogar,San Salvador,Suministros de Oriente,99,31.76,18,2026-09-27
+PRD-0111,Juego de sartenes 3 pzs,Hogar,San Salvador,Importadora del Pacífico,91,38.61,17,2026-07-31
+PRD-0112,Juego de sartenes 3 pzs,Hogar,San Salvador,Distribuidora Cuscatlán,142,37.07,24,2026-09-23
+PRD-0113,Vajilla 16 piezas,Hogar,San Salvador,Grupo Comercial Lempa,7,41.34,23,2026-08-23
+PRD-0114,Vajilla 16 piezas,Hogar,San Salvador,Mayoreo Centroamericano,126,45.32,16,2026-09-01
+PRD-0115,Vajilla 16 piezas,Hogar,San Salvador,Importadora del Pacífico,93,39.85,16,2026-08-23
+PRD-0116,Vajilla 16 piezas,Hogar,San Salvador,Distribuidora Cuscatlán,0,44.77,11,2026-08-08
+PRD-0117,Detergente en polvo 2 kg,Hogar,San Salvador,Mayoreo Centroamericano,61,7.92,20,2026-05-06
+PRD-0118,Detergente en polvo 2 kg,Hogar,San Salvador,Grupo Comercial Lempa,45,7.74,21,2026-08-15
+PRD-0119,Detergente en polvo 2 kg,Hogar,San Salvador,Importadora del Pacífico,103,7.63,14,2026-09-15
+PRD-0121,Desinfectante 1 gal,Hogar,San Salvador,Grupo Comercial Lempa,75,6.33,18,2026-09-21
+PRD-0122,Desinfectante 1 gal,Hogar,San Salvador,Suministros de Oriente,83,6.65,20,2026-02-18
+PRD-0123,Desinfectante 1 gal,Hogar,San Salvador,Distribuidora Cuscatlán,62,6.09,23,2026-09-15
+PRD-0124,Desinfectante 1 gal,Hogar,San Salvador,Importadora del Pacífico,144,6.36,10,2026-08-03
+PRD-0125,Escoba de cerdas,Hogar,San Salvador,Mayoreo Centroamericano,64,4.5,11,2026-07-27
+PRD-0126,Escoba de cerdas,Hogar,San Salvador,Distribuidora Cuscatlán,126,4.23,10,2026-10-11
+PRD-0128,Escoba de cerdas,Hogar,San Salvador,Importadora del Pacífico,148,4.93,17,2026-08-06
+PRD-0129,Cortina de baño,Hogar,San Salvador,Distribuidora Cuscatlán,141,9.1,11,2026-09-25
+PRD-0130,Cortina de baño,Hogar,San Salvador,Grupo Comercial Lempa,113,10.74,21,2026-02-26
+PRD-0131,Cortina de baño,Hogar,San Salvador,Mayoreo Centroamericano,30,9.74,22,2026-08-27
+PRD-0132,Cortina de baño,Hogar,San Salvador,Suministros de Oriente,15,10.45,20,2026-08-16
+PRD-0133,Cortina de baño,Hogar,San Salvador,Importadora del Pacífico,62,10.54,17,2026-08-05
+PRD-0134,Juego de sábanas matrimonial,Hogar,San Salvador,Distribuidora Cuscatlán,51,26.14,22,2026-09-30
+PRD-0135,Juego de sábanas matrimonial,Hogar,San Salvador,Importadora del Pacífico,138,26.67,23,2026-09-02
+PRD-0136,Juego de sábanas matrimonial,Hogar,San Salvador,Grupo Comercial Lempa,45,28.35,17,2026-08-07
+PRD-0137,Juego de sábanas matrimonial,Hogar,San Salvador,Mayoreo Centroamericano,87,26.69,20,2026-08-09
+PRD-0138,Almohada estándar,Hogar,San Salvador,Importadora del Pacífico,141,12.65,23,2026-05-01
+PRD-0139,Almohada estándar,Hogar,San Salvador,Distribuidora Cuscatlán,61,10.72,11,2026-09-06
+PRD-0140,Almohada estándar,Hogar,San Salvador,Grupo Comercial Lempa,9,12.23,19,2026-08-25
+PRD-0141,Almohada estándar,Hogar,San Salvador,Suministros de Oriente,120,11.69,21,2026-08-22
+PRD-0142,Almohada estándar,Hogar,San Salvador,Mayoreo Centroamericano,51,10.86,17,2026-10-12
+PRD-0143,Martillo de uña 16 oz,Ferretería,San Salvador,Importadora del Pacífico,44,9.66,6,2026-09-23
+PRD-0144,Martillo de uña 16 oz,Ferretería,San Salvador,Mayoreo Centroamericano,97,8.83,8,2026-10-04
+PRD-0145,Martillo de uña 16 oz,Ferretería,San Salvador,Grupo Comercial Lempa,16,9.4,13,2026-10-01
+PRD-0146,Martillo de uña 16 oz,Ferretería,San Salvador,Suministros de Oriente,86,9.78,10,2026-09-21
+PRD-0147,Martillo de uña 16 oz,Ferretería,San Salvador,Distribuidora Cuscatlán,52,9.88,9,2026-09-20
+PRD-0148,Juego de destornilladores,Ferretería,San Salvador,Importadora del Pacífico,94,14.26,17,2026-09-28
+PRD-0149,Juego de destornilladores,Ferretería,San Salvador,Distribuidora Cuscatlán,94,15.84,11,2026-07-03
+PRD-0150,Juego de destornilladores,Ferretería,San Salvador,Grupo Comercial Lempa,106,16.22,7,2026-09-02
+PRD-0151,Juego de destornilladores,Ferretería,San Salvador,Mayoreo Centroamericano,10,13.73,16,2026-09-06
+PRD-0152,Juego de destornilladores,Ferretería,San Salvador,Suministros de Oriente,128,13.35,10,2026-09-08
+PRD-0153,Taladro percutor 600 W,Ferretería,San Salvador,Importadora del Pacífico,128,66.58,16,2026-08-28
+PRD-0154,Taladro percutor 600 W,Ferretería,San Salvador,Grupo Comercial Lempa,13,64.73,16,2026-07-26
+PRD-0155,Taladro percutor 600 W,Ferretería,San Salvador,Distribuidora Cuscatlán,88,61.65,13,2026-07-12
+PRD-0156,Taladro percutor 600 W,Ferretería,San Salvador,Suministros de Oriente,84,69.06,17,2026-09-30
+PRD-0157,Taladro percutor 600 W,Ferretería,San Salvador,Mayoreo Centroamericano,17,61.93,11,2026-08-13
+PRD-0158,Cinta métrica 5 m,Ferretería,San Salvador,Suministros de Oriente,93,5.57,12,2026-07-18
+PRD-0159,Cinta métrica 5 m,Ferretería,San Salvador,Importadora del Pacífico,97,5.76,7,2026-10-10
+PRD-0160,Cinta métrica 5 m,Ferretería,San Salvador,Mayoreo Centroamericano,1,5.3,9,2026-09-28
+PRD-0161,Cinta métrica 5 m,Ferretería,San Salvador,Distribuidora Cuscatlán,0,5.31,13,2026-08-04
+PRD-0162,Pintura látex 1 gal,Ferretería,San Salvador,Importadora del Pacífico,57,23.72,14,2026-03-12
+PRD-0163,Pintura látex 1 gal,Ferretería,San Salvador,Grupo Comercial Lempa,117,21.71,13,2026-09-24
+PRD-0164,Pintura látex 1 gal,Ferretería,San Salvador,Mayoreo Centroamericano,125,21.89,12,2026-09-09
+PRD-0165,Pintura látex 1 gal,Ferretería,San Salvador,Distribuidora Cuscatlán,126,20.78,10,2026-08-25
+PRD-0166,Extensión eléctrica 5 m,Ferretería,San Salvador,Distribuidora Cuscatlán,96,8.77,6,2026-07-11
+PRD-0167,Extensión eléctrica 5 m,Ferretería,San Salvador,Mayoreo Centroamericano,45,7.81,10,2026-09-05
+PRD-0168,Extensión eléctrica 5 m,Ferretería,San Salvador,Suministros de Oriente,122,9.07,16,2026-08-22
+PRD-0169,Extensión eléctrica 5 m,Ferretería,San Salvador,Grupo Comercial Lempa,107,8.68,11,2026-08-27
+PRD-0170,Extensión eléctrica 5 m,Ferretería,San Salvador,Importadora del Pacífico,81,7.47,10,2026-08-27
+PRD-0171,Candado de seguridad,Ferretería,San Salvador,Grupo Comercial Lempa,4,11.29,6,2026-09-13
+PRD-0172,Candado de seguridad,Ferretería,San Salvador,Mayoreo Centroamericano,23,11.69,9,2026-09-30
+PRD-0173,Candado de seguridad,Ferretería,San Salvador,Suministros de Oriente,5,10.89,15,2026-09-19
+PRD-0174,Candado de seguridad,Ferretería,San Salvador,Importadora del Pacífico,117,10.75,12,2026-09-03
+PRD-0175,Candado de seguridad,Ferretería,San Salvador,Distribuidora Cuscatlán,120,10.32,9,2026-09-19
+PRD-0176,Foco LED 12 W,Ferretería,San Salvador,Distribuidora Cuscatlán,19,2.71,6,2026-10-01
+PRD-0177,Foco LED 12 W,Ferretería,San Salvador,Importadora del Pacífico,29,2.74,17,2026-08-31
+PRD-0178,Foco LED 12 W,Ferretería,San Salvador,Mayoreo Centroamericano,119,2.75,16,2026-08-06
+PRD-0179,Foco LED 12 W,Ferretería,San Salvador,Suministros de Oriente,68,2.85,15,2026-08-03
+PRD-0180,Audífonos Bluetooth,Electrónica,San Salvador,Distribuidora Cuscatlán,13,30.17,8,2026-06-24
+PRD-0181,Audífonos Bluetooth,Electrónica,San Salvador,Mayoreo Centroamericano,16,28.82,9,2026-09-26
+PRD-0182,Audífonos Bluetooth,Electrónica,San Salvador,Importadora del Pacífico,22,31.88,4,2026-09-30
+PRD-0183,Audífonos Bluetooth,Electrónica,San Salvador,Grupo Comercial Lempa,29,28.35,9,2026-10-02
+PRD-0184,Audífonos Bluetooth,Electrónica,San Salvador,Suministros de Oriente,13,30.87,7,2026-09-08
+PRD-0185,Parlante portátil,Electrónica,San Salvador,Suministros de Oriente,29,43.78,6,2026-09-10
+PRD-0186,Parlante portátil,Electrónica,San Salvador,Distribuidora Cuscatlán,10,49.36,3,2026-08-31
+PRD-0187,Parlante portátil,Electrónica,San Salvador,Mayoreo Centroamericano,2,47.74,7,2026-08-05
+PRD-0188,Parlante portátil,Electrónica,San Salvador,Importadora del Pacífico,26,41.44,4,2026-07-24
+PRD-0189,Cargador USB-C 25 W,Electrónica,San Salvador,Grupo Comercial Lempa,39,14.41,4,2026-08-17
+PRD-0190,Cargador USB-C 25 W,Electrónica,San Salvador,Suministros de Oriente,10,15.38,4,2026-09-23
+PRD-0191,Cargador USB-C 25 W,Electrónica,San Salvador,Importadora del Pacífico,22,13.96,7,2026-09-20
+PRD-0193,Cargador USB-C 25 W,Electrónica,San Salvador,Mayoreo Centroamericano,64,16.24,5,2026-09-21
+PRD-0194,Mouse inalámbrico,Electrónica,San Salvador,Mayoreo Centroamericano,38,14.12,8,2026-08-28
+PRD-0195,Mouse inalámbrico,Electrónica,San Salvador,Distribuidora Cuscatlán,49,12.34,6,2026-09-17
+PRD-0196,Mouse inalámbrico,Electrónica,San Salvador,Grupo Comercial Lempa,52,12.26,8,2026-10-12
+PRD-0197,Mouse inalámbrico,Electrónica,San Salvador,Suministros de Oriente,0,12.74,3,2026-08-31
+PRD-0198,Mouse inalámbrico,Electrónica,San Salvador,Importadora del Pacífico,22,12.98,4,2026-09-23
+PRD-0199,Memoria USB 64 GB,Electrónica,San Salvador,Suministros de Oriente,49,9.25,8,2026-08-28
+PRD-0200,Memoria USB 64 GB,Electrónica,San Salvador,Grupo Comercial Lempa,17,10.26,6,2026-09-12
+PRD-0201,Memoria USB 64 GB,Electrónica,San Salvador,Importadora del Pacífico,22,10.61,6,2026-09-19
+PRD-0202,Memoria USB 64 GB,Electrónica,San Salvador,Mayoreo Centroamericano,26,10.48,9,2026-09-10
+PRD-0203,Memoria USB 64 GB,Electrónica,San Salvador,Distribuidora Cuscatlán,10,10.69,8,2026-09-03
+PRD-0204,Router WiFi doble banda,Electrónica,San Salvador,Suministros de Oriente,16,51.77,9,2026-08-24
+PRD-0205,Router WiFi doble banda,Electrónica,San Salvador,Grupo Comercial Lempa,61,59.22,9,2026-08-28
+PRD-0206,Router WiFi doble banda,Electrónica,San Salvador,Mayoreo Centroamericano,26,49.28,5,2026-08-30
+PRD-0207,Router WiFi doble banda,Electrónica,San Salvador,Importadora del Pacífico,61,52.05,5,2026-08-12
+PRD-0208,Router WiFi doble banda,Electrónica,San Salvador,Distribuidora Cuscatlán,0,49.83,5,2026-06-17
+PRD-0209,Tablet 10 pulgadas,Electrónica,San Salvador,Mayoreo Centroamericano,55,179.05,9,2026-09-18
+PRD-0210,Tablet 10 pulgadas,Electrónica,San Salvador,Distribuidora Cuscatlán,32,192.72,8,2026-09-22
+PRD-0211,Tablet 10 pulgadas,Electrónica,San Salvador,Suministros de Oriente,23,190.71,9,2026-09-07
+PRD-0212,Tablet 10 pulgadas,Electrónica,San Salvador,Importadora del Pacífico,49,194.69,9,2026-08-28
+PRD-0213,Tablet 10 pulgadas,Electrónica,San Salvador,Grupo Comercial Lempa,9,174.89,6,2026-09-22
+PRD-0214,Smartphone gama media,Electrónica,San Salvador,Suministros de Oriente,13,272.74,9,2026-08-08
+PRD-0216,Smartphone gama media,Electrónica,San Salvador,Importadora del Pacífico,9,311.14,5,2026-09-08
+PRD-0217,Smartphone gama media,Electrónica,San Salvador,Mayoreo Centroamericano,58,308.53,4,2026-04-23
+PRD-0218,Smart TV 43 pulgadas,Electrónica,San Salvador,Mayoreo Centroamericano,2,371.96,3,2026-05-02
+PRD-0219,Smart TV 43 pulgadas,Electrónica,San Salvador,Grupo Comercial Lempa,57,355.57,4,2026-10-09
+PRD-0220,Smart TV 43 pulgadas,Electrónica,San Salvador,Suministros de Oriente,30,322.66,3,2026-08-15
+PRD-0221,Smart TV 43 pulgadas,Electrónica,San Salvador,Importadora del Pacífico,51,359.8,8,2026-10-13
+PRD-0222,Licuadora 600 W,Electrodomésticos,San Salvador,Suministros de Oriente,1,53.28,2,2026-09-17
+PRD-0223,Licuadora 600 W,Electrodomésticos,San Salvador,Importadora del Pacífico,16,46.98,4,2026-08-28
+PRD-0224,Licuadora 600 W,Electrodomésticos,San Salvador,Distribuidora Cuscatlán,0,48.72,5,2026-07-25
+PRD-0225,Licuadora 600 W,Electrodomésticos,San Salvador,Mayoreo Centroamericano,12,54.34,4,2026-09-18
+PRD-0226,Microondas 0.9 pies,Electrodomésticos,San Salvador,Importadora del Pacífico,25,102.22,5,2026-09-24
+PRD-0227,Microondas 0.9 pies,Electrodomésticos,San Salvador,Mayoreo Centroamericano,22,102.11,5,2026-09-29
+PRD-0228,Microondas 0.9 pies,Electrodomésticos,San Salvador,Suministros de Oriente,32,93.96,5,2026-09-02
+PRD-0229,Microondas 0.9 pies,Electrodomésticos,San Salvador,Distribuidora Cuscatlán,29,100.32,4,2026-09-24
+PRD-0230,Refrigeradora 10 pies,Electrodomésticos,San Salvador,Mayoreo Centroamericano,29,485.24,4,2026-09-23
+PRD-0231,Refrigeradora 10 pies,Electrodomésticos,San Salvador,Suministros de Oriente,38,545.16,3,2026-09-29
+PRD-0234,Lavadora 18 lb,Electrodomésticos,San Salvador,Importadora del Pacífico,33,412.93,4,2026-08-10
+PRD-0235,Lavadora 18 lb,Electrodomésticos,San Salvador,Mayoreo Centroamericano,41,436.26,2,2026-09-06
+PRD-0236,Lavadora 18 lb,Electrodomésticos,San Salvador,Grupo Comercial Lempa,0,391.67,5,2026-06-05
+PRD-0237,Lavadora 18 lb,Electrodomésticos,San Salvador,Suministros de Oriente,6,452.96,2,2026-09-28
+PRD-0238,Cafetera 12 tazas,Electrodomésticos,San Salvador,Distribuidora Cuscatlán,1,32.16,2,2026-10-10
+PRD-0239,Cafetera 12 tazas,Electrodomésticos,San Salvador,Grupo Comercial Lempa,6,30.17,4,2026-09-09
+PRD-0240,Cafetera 12 tazas,Electrodomésticos,San Salvador,Mayoreo Centroamericano,1,35.42,2,2026-04-06
+PRD-0241,Cafetera 12 tazas,Electrodomésticos,San Salvador,Importadora del Pacífico,39,31.93,3,2026-09-16
+PRD-0242,Plancha de vapor,Electrodomésticos,San Salvador,Grupo Comercial Lempa,38,23.3,5,2026-08-27
+PRD-0243,Plancha de vapor,Electrodomésticos,San Salvador,Suministros de Oriente,16,26.65,2,2026-06-11
+PRD-0244,Plancha de vapor,Electrodomésticos,San Salvador,Distribuidora Cuscatlán,12,24.51,3,2026-08-21
+PRD-0245,Plancha de vapor,Electrodomésticos,San Salvador,Importadora del Pacífico,14,22.77,5,2026-09-24
+PRD-0246,Ventilador de pedestal,Electrodomésticos,San Salvador,Mayoreo Centroamericano,38,40.38,5,2026-08-18
+PRD-0247,Ventilador de pedestal,Electrodomésticos,San Salvador,Distribuidora Cuscatlán,3,43.87,2,2026-06-27
+PRD-0248,Ventilador de pedestal,Electrodomésticos,San Salvador,Importadora del Pacífico,14,41.16,2,2026-09-03
+PRD-0249,Ventilador de pedestal,Electrodomésticos,San Salvador,Suministros de Oriente,0,41.48,2,2026-04-15
+PRD-0250,Ventilador de pedestal,Electrodomésticos,San Salvador,Grupo Comercial Lempa,32,36.73,5,2026-02-25
+PRD-0251,Olla arrocera 1.8 L,Electrodomésticos,San Salvador,Suministros de Oriente,17,31.18,3,2026-09-02
+PRD-0252,Olla arrocera 1.8 L,Electrodomésticos,San Salvador,Distribuidora Cuscatlán,23,27.91,4,2026-07-28
+PRD-0253,Olla arrocera 1.8 L,Electrodomésticos,San Salvador,Importadora del Pacífico,4,30.88,2,2026-04-14
+PRD-0254,Olla arrocera 1.8 L,Electrodomésticos,San Salvador,Grupo Comercial Lempa,10,31.28,5,2026-07-10
+PRD-0255,Olla arrocera 1.8 L,Electrodomésticos,San Salvador,Mayoreo Centroamericano,16,28.96,5,2026-09-14
+PRD-0256,Cocina de gas 4 quemadores,Electrodomésticos,San Salvador,Mayoreo Centroamericano,6,253.16,5,2026-09-07
+PRD-0257,Cocina de gas 4 quemadores,Electrodomésticos,San Salvador,Distribuidora Cuscatlán,1,248.68,2,2026-09-05
+PRD-0258,Cocina de gas 4 quemadores,Electrodomésticos,San Salvador,Suministros de Oriente,41,283.12,4,2026-09-03
+PRD-0259,Cocina de gas 4 quemadores,Electrodomésticos,San Salvador,Grupo Comercial Lempa,20,267.76,2,2026-08-24
+PRD-0260,Cocina de gas 4 quemadores,Electrodomésticos,San Salvador,Importadora del Pacífico,13,285.67,5,2026-09-28
+PRD-0001,Arroz blanco 5 lb,Abarrotes,Santa Ana,Suministros de Oriente,20,4.56,40,2026-08-19
+PRD-0002,Arroz blanco 5 lb,Abarrotes,Santa Ana,Mayoreo Centroamericano,193,4.67,51,2026-09-30
+PRD-0003,Arroz blanco 5 lb,Abarrotes,Santa Ana,Importadora del Pacífico,166,4.44,35,2026-09-15
+PRD-0004,Arroz blanco 5 lb,Abarrotes,Santa Ana,Distribuidora Cuscatlán,154,4.1,34,2026-08-23
+PRD-0005,Arroz blanco 5 lb,Abarrotes,Santa Ana,Grupo Comercial Lempa,127,4.69,59,2026-09-26
+PRD-0006,Frijol rojo seda 2 lb,Abarrotes,Santa Ana,Importadora del Pacífico,113,2.6,43,2026-07-21
+PRD-0008,Frijol rojo seda 2 lb,Abarrotes,Santa Ana,Grupo Comercial Lempa,21,2.47,55,2026-08-31
+PRD-0009,Frijol rojo seda 2 lb,Abarrotes,Santa Ana,Suministros de Oriente,146,2.59,45,2026-08-20
+PRD-0010,Azúcar blanca 5 lb,Abarrotes,Santa Ana,Mayoreo Centroamericano,183,3.21,44,2026-09-30
+PRD-0011,Azúcar blanca 5 lb,Abarrotes,Santa Ana,Importadora del Pacífico,232,3.39,47,2026-10-02
+PRD-0012,Azúcar blanca 5 lb,Abarrotes,Santa Ana,Distribuidora Cuscatlán,264,3.28,58,2026-09-06
+PRD-0013,Azúcar blanca 5 lb,Abarrotes,Santa Ana,Grupo Comercial Lempa,78,3.71,36,2026-09-01
+PRD-0014,Aceite vegetal 1 L,Abarrotes,Santa Ana,Distribuidora Cuscatlán,243,3.13,46,2026-07-24
+PRD-0016,Aceite vegetal 1 L,Abarrotes,Santa Ana,Grupo Comercial Lempa,140,3.32,39,2026-07-06
+PRD-0017,Aceite vegetal 1 L,Abarrotes,Santa Ana,Mayoreo Centroamericano,20,3.05,32,2026-08-04
+PRD-0018,Aceite vegetal 1 L,Abarrotes,Santa Ana,Importadora del Pacífico,136,3.32,37,2026-09-18
+PRD-0021,Café molido 400 g,Abarrotes,Santa Ana,Importadora del Pacífico,69,5.65,40,2026-08-12
+PRD-0022,Café molido 400 g,Abarrotes,Santa Ana,Suministros de Oriente,163,5.8,42,2026-09-05
+PRD-0023,Harina de maíz 2 lb,Abarrotes,Santa Ana,Distribuidora Cuscatlán,98,2.1,30,2026-09-13
+PRD-0024,Harina de maíz 2 lb,Abarrotes,Santa Ana,Mayoreo Centroamericano,15,1.98,52,2026-10-01
+PRD-0025,Harina de maíz 2 lb,Abarrotes,Santa Ana,Importadora del Pacífico,185,1.97,39,2026-08-28
+PRD-0026,Harina de maíz 2 lb,Abarrotes,Santa Ana,Suministros de Oriente,135,1.8,35,2026-10-02
+PRD-0027,Harina de maíz 2 lb,Abarrotes,Santa Ana,Grupo Comercial Lempa,86,2.18,57,2026-08-30
+PRD-0028,Pasta espagueti 500 g,Abarrotes,Santa Ana,Grupo Comercial Lempa,111,1.13,48,2026-09-30
+PRD-0030,Pasta espagueti 500 g,Abarrotes,Santa Ana,Suministros de Oriente,94,1.22,58,2026-09-22
+PRD-0031,Pasta espagueti 500 g,Abarrotes,Santa Ana,Importadora del Pacífico,117,1.14,56,2026-05-24
+PRD-0032,Leche en polvo 800 g,Abarrotes,Santa Ana,Grupo Comercial Lempa,9,8.56,33,2026-08-12
+PRD-0033,Leche en polvo 800 g,Abarrotes,Santa Ana,Suministros de Oriente,236,8.96,50,2026-09-28
+PRD-0035,Leche en polvo 800 g,Abarrotes,Santa Ana,Distribuidora Cuscatlán,196,9.19,30,2026-06-24
+PRD-0036,Sal yodada 1 kg,Abarrotes,Santa Ana,Importadora del Pacífico,171,0.61,57,2026-09-12
+PRD-0037,Sal yodada 1 kg,Abarrotes,Santa Ana,Distribuidora Cuscatlán,2,0.72,37,2026-08-20
+PRD-0038,Sal yodada 1 kg,Abarrotes,Santa Ana,Suministros de Oriente,218,0.68,53,2026-09-21
+PRD-0039,Sal yodada 1 kg,Abarrotes,Santa Ana,Mayoreo Centroamericano,82,0.68,32,2026-05-01
+PRD-0040,Sal yodada 1 kg,Abarrotes,Santa Ana,Grupo Comercial Lempa,251,0.72,46,2026-08-06
+PRD-0043,Atún en agua 140 g,Abarrotes,Santa Ana,Distribuidora Cuscatlán,167,1.5,32,2026-10-07
+PRD-0044,Atún en agua 140 g,Abarrotes,Santa Ana,Importadora del Pacífico,195,1.58,40,2026-08-19
+PRD-0045,Atún en agua 140 g,Abarrotes,Santa Ana,Mayoreo Centroamericano,112,1.41,48,2026-10-01
+PRD-0046,Agua purificada 1.5 L,Bebidas,Santa Ana,Grupo Comercial Lempa,61,0.82,33,2026-07-15
+PRD-0047,Agua purificada 1.5 L,Bebidas,Santa Ana,Importadora del Pacífico,67,0.78,25,2026-08-20
+PRD-0048,Agua purificada 1.5 L,Bebidas,Santa Ana,Mayoreo Centroamericano,165,0.87,35,2026-06-23
+PRD-0049,Agua purificada 1.5 L,Bebidas,Santa Ana,Suministros de Oriente,192,0.86,30,2026-09-04
+PRD-0050,Gaseosa 2 L,Bebidas,Santa Ana,Grupo Comercial Lempa,173,1.81,32,2026-09-04
+PRD-0051,Gaseosa 2 L,Bebidas,Santa Ana,Mayoreo Centroamericano,158,2.04,32,2026-06-14
+PRD-0052,Gaseosa 2 L,Bebidas,Santa Ana,Distribuidora Cuscatlán,30,1.96,45,2026-10-07
+PRD-0053,Gaseosa 2 L,Bebidas,Santa Ana,Suministros de Oriente,176,1.99,29,2026-06-20
+PRD-0054,Gaseosa 2 L,Bebidas,Santa Ana,Importadora del Pacífico,175,2.05,48,2026-10-01
+PRD-0055,Jugo de naranja 1 L,Bebidas,Santa Ana,Distribuidora Cuscatlán,176,2.55,42,2026-07-25
+PRD-0056,Jugo de naranja 1 L,Bebidas,Santa Ana,Grupo Comercial Lempa,62,2.29,42,2026-10-09
+PRD-0058,Jugo de naranja 1 L,Bebidas,Santa Ana,Mayoreo Centroamericano,0,2.33,28,2026-08-05
+PRD-0059,Jugo de naranja 1 L,Bebidas,Santa Ana,Importadora del Pacífico,206,2.3,27,2026-05-20
+PRD-0060,Bebida energética 473 ml,Bebidas,Santa Ana,Suministros de Oriente,79,1.94,44,2026-09-02
+PRD-0061,Bebida energética 473 ml,Bebidas,Santa Ana,Mayoreo Centroamericano,145,2.31,31,2026-08-21
+PRD-0062,Bebida energética 473 ml,Bebidas,Santa Ana,Distribuidora Cuscatlán,174,2.04,26,2026-09-13
+PRD-0064,Té frío 500 ml,Bebidas,Santa Ana,Grupo Comercial Lempa,188,1.23,29,2026-09-01
+PRD-0067,Té frío 500 ml,Bebidas,Santa Ana,Importadora del Pacífico,227,1.23,31,2026-08-29
+PRD-0068,Té frío 500 ml,Bebidas,Santa Ana,Suministros de Oriente,98,1.05,34,2026-07-07
+PRD-0069,Horchata en polvo 400 g,Bebidas,Santa Ana,Suministros de Oriente,147,3.16,30,2026-07-24
+PRD-0071,Horchata en polvo 400 g,Bebidas,Santa Ana,Importadora del Pacífico,46,3.59,48,2026-08-27
+PRD-0072,Horchata en polvo 400 g,Bebidas,Santa Ana,Grupo Comercial Lempa,163,2.98,46,2026-09-19
+PRD-0073,Horchata en polvo 400 g,Bebidas,Santa Ana,Distribuidora Cuscatlán,111,3.04,46,2026-08-20
+PRD-0074,Café instantáneo 200 g,Bebidas,Santa Ana,Mayoreo Centroamericano,136,6.96,28,2026-09-08
+PRD-0075,Café instantáneo 200 g,Bebidas,Santa Ana,Grupo Comercial Lempa,79,6.15,49,2026-10-04
+PRD-0076,Café instantáneo 200 g,Bebidas,Santa Ana,Importadora del Pacífico,24,6.64,36,2026-06-25
+PRD-0077,Café instantáneo 200 g,Bebidas,Santa Ana,Suministros de Oriente,0,5.87,43,2026-08-12
+PRD-0079,Jabón de tocador 3 un.,Higiene Personal,Santa Ana,Grupo Comercial Lempa,21,2.55,31,2026-09-09
+PRD-0080,Jabón de tocador 3 un.,Higiene Personal,Santa Ana,Suministros de Oriente,142,2.47,28,2026-09-19
+PRD-0081,Jabón de tocador 3 un.,Higiene Personal,Santa Ana,Importadora del Pacífico,122,2.3,38,2026-09-24
+PRD-0082,Champú 400 ml,Higiene Personal,Santa Ana,Mayoreo Centroamericano,98,5.11,24,2026-10-13
+PRD-0083,Champú 400 ml,Higiene Personal,Santa Ana,Distribuidora Cuscatlán,94,5.13,33,2026-07-21
+PRD-0084,Champú 400 ml,Higiene Personal,Santa Ana,Importadora del Pacífico,44,4.4,35,2026-09-29
+PRD-0086,Champú 400 ml,Higiene Personal,Santa Ana,Suministros de Oriente,170,5.25,37,2026-07-12
+PRD-0087,Pasta dental 150 ml,Higiene Personal,Santa Ana,Importadora del Pacífico,129,2.49,21,2026-09-24
+PRD-0088,Pasta dental 150 ml,Higiene Personal,Santa Ana,Distribuidora Cuscatlán,171,2.64,25,2026-09-11
+PRD-0089,Pasta dental 150 ml,Higiene Personal,Santa Ana,Suministros de Oriente,114,3.03,29,2026-10-05
+PRD-0090,Pasta dental 150 ml,Higiene Personal,Santa Ana,Grupo Comercial Lempa,171,2.58,31,2026-09-27
+PRD-0091,Desodorante 50 ml,Higiene Personal,Santa Ana,Distribuidora Cuscatlán,42,3.92,28,2026-09-15
+PRD-0092,Desodorante 50 ml,Higiene Personal,Santa Ana,Importadora del Pacífico,151,4.05,26,2026-07-17
+PRD-0093,Desodorante 50 ml,Higiene Personal,Santa Ana,Mayoreo Centroamericano,188,4.4,23,2026-10-12
+PRD-0094,Desodorante 50 ml,Higiene Personal,Santa Ana,Suministros de Oriente,69,4.33,31,2026-08-13
+PRD-0096,Papel higiénico 12 rollos,Higiene Personal,Santa Ana,Suministros de Oriente,78,6.27,34,2026-10-07
+PRD-0097,Papel higiénico 12 rollos,Higiene Personal,Santa Ana,Importadora del Pacífico,183,6.37,33,2026-09-10
+PRD-0098,Papel higiénico 12 rollos,Higiene Personal,Santa Ana,Grupo Comercial Lempa,57,6.47,32,2026-09-18
+PRD-0099,Papel higiénico 12 rollos,Higiene Personal,Santa Ana,Mayoreo Centroamericano,93,7.2,35,2026-09-24
+PRD-0100,Toallas húmedas 80 un.,Higiene Personal,Santa Ana,Suministros de Oriente,150,2.93,29,2026-09-05
+PRD-0101,Toallas húmedas 80 un.,Higiene Personal,Santa Ana,Grupo Comercial Lempa,54,2.96,24,2026-06-28
+PRD-0102,Toallas húmedas 80 un.,Higiene Personal,Santa Ana,Mayoreo Centroamericano,8,3.58,24,2026-09-30
+PRD-0103,Toallas húmedas 80 un.,Higiene Personal,Santa Ana,Importadora del Pacífico,186,2.99,26,2026-08-27
+PRD-0104,Toallas húmedas 80 un.,Higiene Personal,Santa Ana,Distribuidora Cuscatlán,84,3.52,22,2026-10-05
+PRD-0105,Cepillo dental,Higiene Personal,Santa Ana,Suministros de Oriente,4,1.78,28,2026-09-06
+PRD-0106,Cepillo dental,Higiene Personal,Santa Ana,Distribuidora Cuscatlán,88,1.79,31,2026-07-28
+PRD-0107,Cepillo dental,Higiene Personal,Santa Ana,Importadora del Pacífico,82,1.62,24,2026-09-18
+PRD-0108,Cepillo dental,Higiene Personal,Santa Ana,Grupo Comercial Lempa,50,1.72,28,2026-08-12
+PRD-0109,Juego de sartenes 3 pzs,Hogar,Santa Ana,Grupo Comercial Lempa,69,38.13,10,2026-09-14
+PRD-0110,Juego de sartenes 3 pzs,Hogar,Santa Ana,Suministros de Oriente,17,31.76,18,2026-09-17
+PRD-0111,Juego de sartenes 3 pzs,Hogar,Santa Ana,Importadora del Pacífico,52,38.61,17,2026-08-30
+PRD-0112,Juego de sartenes 3 pzs,Hogar,Santa Ana,Distribuidora Cuscatlán,34,37.07,24,2026-07-18
+PRD-0113,Vajilla 16 piezas,Hogar,Santa Ana,Grupo Comercial Lempa,101,41.34,23,2026-09-16
+PRD-0114,Vajilla 16 piezas,Hogar,Santa Ana,Mayoreo Centroamericano,114,45.32,16,2026-09-22
+PRD-0115,Vajilla 16 piezas,Hogar,Santa Ana,Importadora del Pacífico,112,39.85,16,2026-10-05
+PRD-0116,Vajilla 16 piezas,Hogar,Santa Ana,Distribuidora Cuscatlán,94,44.77,11,2026-08-15
+PRD-0118,Detergente en polvo 2 kg,Hogar,Santa Ana,Grupo Comercial Lempa,113,7.74,21,2026-09-16
+PRD-0119,Detergente en polvo 2 kg,Hogar,Santa Ana,Importadora del Pacífico,50,7.63,14,2026-08-01
+PRD-0120,Detergente en polvo 2 kg,Hogar,Santa Ana,Suministros de Oriente,22,7.76,23,2026-09-23
+PRD-0121,Desinfectante 1 gal,Hogar,Santa Ana,Grupo Comercial Lempa,92,6.33,18,2026-07-06
+PRD-0122,Desinfectante 1 gal,Hogar,Santa Ana,Suministros de Oriente,27,6.65,20,2026-08-16
+PRD-0123,Desinfectante 1 gal,Hogar,Santa Ana,Distribuidora Cuscatlán,45,6.09,23,2026-05-13
+PRD-0124,Desinfectante 1 gal,Hogar,Santa Ana,Importadora del Pacífico,61,6.36,10,2026-08-15
+PRD-0125,Escoba de cerdas,Hogar,Santa Ana,Mayoreo Centroamericano,10,4.5,11,2026-06-29
+PRD-0126,Escoba de cerdas,Hogar,Santa Ana,Distribuidora Cuscatlán,8,4.23,10,2026-09-22
+PRD-0127,Escoba de cerdas,Hogar,Santa Ana,Grupo Comercial Lempa,47,4.88,24,2026-08-11
+PRD-0128,Escoba de cerdas,Hogar,Santa Ana,Importadora del Pacífico,48,4.93,17,2026-09-21
+PRD-0129,Cortina de baño,Hogar,Santa Ana,Distribuidora Cuscatlán,93,9.1,11,2026-09-03
+PRD-0131,Cortina de baño,Hogar,Santa Ana,Mayoreo Centroamericano,8,9.74,22,2026-09-17
+PRD-0132,Cortina de baño,Hogar,Santa Ana,Suministros de Oriente,38,10.45,20,2026-08-07
+PRD-0133,Cortina de baño,Hogar,Santa Ana,Importadora del Pacífico,30,10.54,17,2026-07-24
+PRD-0134,Juego de sábanas matrimonial,Hogar,Santa Ana,Distribuidora Cuscatlán,55,26.14,22,2026-09-08
+PRD-0135,Juego de sábanas matrimonial,Hogar,Santa Ana,Importadora del Pacífico,69,26.67,23,2026-09-29
+PRD-0136,Juego de sábanas matrimonial,Hogar,Santa Ana,Grupo Comercial Lempa,8,28.35,17,2026-05-10
+PRD-0137,Juego de sábanas matrimonial,Hogar,Santa Ana,Mayoreo Centroamericano,99,26.69,20,2026-08-09
+PRD-0138,Almohada estándar,Hogar,Santa Ana,Importadora del Pacífico,79,12.65,23,2026-10-02
+PRD-0139,Almohada estándar,Hogar,Santa Ana,Distribuidora Cuscatlán,99,10.72,11,2026-08-30
+PRD-0140,Almohada estándar,Hogar,Santa Ana,Grupo Comercial Lempa,57,12.23,19,2026-09-21
+PRD-0142,Almohada estándar,Hogar,Santa Ana,Mayoreo Centroamericano,92,10.86,17,2026-08-30
+PRD-0143,Martillo de uña 16 oz,Ferretería,Santa Ana,Importadora del Pacífico,65,9.66,6,2026-06-27
+PRD-0144,Martillo de uña 16 oz,Ferretería,Santa Ana,Mayoreo Centroamericano,26,8.83,8,2026-09-26
+PRD-0145,Martillo de uña 16 oz,Ferretería,Santa Ana,Grupo Comercial Lempa,52,9.4,13,2026-09-01
+PRD-0146,Martillo de uña 16 oz,Ferretería,Santa Ana,Suministros de Oriente,57,9.78,10,2026-09-01
+PRD-0147,Martillo de uña 16 oz,Ferretería,Santa Ana,Distribuidora Cuscatlán,10,9.88,9,2026-06-26
+PRD-0148,Juego de destornilladores,Ferretería,Santa Ana,Importadora del Pacífico,91,14.26,17,2026-09-09
+PRD-0149,Juego de destornilladores,Ferretería,Santa Ana,Distribuidora Cuscatlán,81,15.84,11,2026-10-03
+PRD-0151,Juego de destornilladores,Ferretería,Santa Ana,Mayoreo Centroamericano,60,13.73,16,2026-09-14
+PRD-0152,Juego de destornilladores,Ferretería,Santa Ana,Suministros de Oriente,83,13.35,10,2026-10-08
+PRD-0153,Taladro percutor 600 W,Ferretería,Santa Ana,Importadora del Pacífico,24,66.58,16,2026-08-29
+PRD-0154,Taladro percutor 600 W,Ferretería,Santa Ana,Grupo Comercial Lempa,1,64.73,16,2026-08-20
+PRD-0155,Taladro percutor 600 W,Ferretería,Santa Ana,Distribuidora Cuscatlán,22,61.65,13,2026-10-10
+PRD-0157,Taladro percutor 600 W,Ferretería,Santa Ana,Mayoreo Centroamericano,83,61.93,11,2026-08-30
+PRD-0159,Cinta métrica 5 m,Ferretería,Santa Ana,Importadora del Pacífico,27,5.76,7,2026-09-01
+PRD-0160,Cinta métrica 5 m,Ferretería,Santa Ana,Mayoreo Centroamericano,61,5.3,9,2026-10-02
+PRD-0161,Cinta métrica 5 m,Ferretería,Santa Ana,Distribuidora Cuscatlán,32,5.31,13,2026-08-12
+PRD-0162,Pintura látex 1 gal,Ferretería,Santa Ana,Importadora del Pacífico,91,23.72,14,2026-09-19
+PRD-0163,Pintura látex 1 gal,Ferretería,Santa Ana,Grupo Comercial Lempa,74,21.71,13,2026-08-31
+PRD-0164,Pintura látex 1 gal,Ferretería,Santa Ana,Mayoreo Centroamericano,88,21.89,12,2026-08-28
+PRD-0165,Pintura látex 1 gal,Ferretería,Santa Ana,Distribuidora Cuscatlán,20,20.78,10,2026-05-09
+PRD-0166,Extensión eléctrica 5 m,Ferretería,Santa Ana,Distribuidora Cuscatlán,2,8.77,6,2026-10-07
+PRD-0167,Extensión eléctrica 5 m,Ferretería,Santa Ana,Mayoreo Centroamericano,47,7.81,10,2026-08-24
+PRD-0169,Extensión eléctrica 5 m,Ferretería,Santa Ana,Grupo Comercial Lempa,48,8.68,11,2026-08-29
+PRD-0170,Extensión eléctrica 5 m,Ferretería,Santa Ana,Importadora del Pacífico,55,7.47,10,2026-09-19
+PRD-0172,Candado de seguridad,Ferretería,Santa Ana,Mayoreo Centroamericano,62,11.69,9,2026-09-22
+PRD-0173,Candado de seguridad,Ferretería,Santa Ana,Suministros de Oriente,25,10.89,15,2026-07-22
+PRD-0174,Candado de seguridad,Ferretería,Santa Ana,Importadora del Pacífico,20,10.75,12,2026-09-25
+PRD-0175,Candado de seguridad,Ferretería,Santa Ana,Distribuidora Cuscatlán,28,10.32,9,2026-09-28
+PRD-0176,Foco LED 12 W,Ferretería,Santa Ana,Distribuidora Cuscatlán,47,2.71,6,2026-09-28
+PRD-0177,Foco LED 12 W,Ferretería,Santa Ana,Importadora del Pacífico,34,2.74,17,2026-08-03
+PRD-0178,Foco LED 12 W,Ferretería,Santa Ana,Mayoreo Centroamericano,62,2.75,16,2026-10-05
+PRD-0179,Foco LED 12 W,Ferretería,Santa Ana,Suministros de Oriente,18,2.85,15,2026-09-06
+PRD-0180,Audífonos Bluetooth,Electrónica,Santa Ana,Distribuidora Cuscatlán,38,30.17,8,2026-09-15
+PRD-0181,Audífonos Bluetooth,Electrónica,Santa Ana,Mayoreo Centroamericano,0,28.82,9,2026-09-11
+PRD-0183,Audífonos Bluetooth,Electrónica,Santa Ana,Grupo Comercial Lempa,38,28.35,9,2026-09-19
+PRD-0184,Audífonos Bluetooth,Electrónica,Santa Ana,Suministros de Oriente,29,30.87,7,2026-09-30
+PRD-0186,Parlante portátil,Electrónica,Santa Ana,Distribuidora Cuscatlán,25,49.36,3,2026-08-21
+PRD-0189,Cargador USB-C 25 W,Electrónica,Santa Ana,Grupo Comercial Lempa,35,14.41,4,2026-09-22
+PRD-0190,Cargador USB-C 25 W,Electrónica,Santa Ana,Suministros de Oriente,23,15.38,4,2026-08-13
+PRD-0191,Cargador USB-C 25 W,Electrónica,Santa Ana,Importadora del Pacífico,5,13.96,7,2026-10-13
+PRD-0193,Cargador USB-C 25 W,Electrónica,Santa Ana,Mayoreo Centroamericano,4,16.24,5,2026-07-14
+PRD-0194,Mouse inalámbrico,Electrónica,Santa Ana,Mayoreo Centroamericano,27,14.12,8,2026-10-06
+PRD-0196,Mouse inalámbrico,Electrónica,Santa Ana,Grupo Comercial Lempa,15,12.26,8,2026-08-31
+PRD-0199,Memoria USB 64 GB,Electrónica,Santa Ana,Suministros de Oriente,34,9.25,8,2026-09-13
+PRD-0201,Memoria USB 64 GB,Electrónica,Santa Ana,Importadora del Pacífico,8,10.61,6,2026-09-27
+PRD-0202,Memoria USB 64 GB,Electrónica,Santa Ana,Mayoreo Centroamericano,12,10.48,9,2026-08-09
+PRD-0203,Memoria USB 64 GB,Electrónica,Santa Ana,Distribuidora Cuscatlán,15,10.69,8,2026-08-07
+PRD-0205,Router WiFi doble banda,Electrónica,Santa Ana,Grupo Comercial Lempa,32,59.22,9,2026-10-03
+PRD-0206,Router WiFi doble banda,Electrónica,Santa Ana,Mayoreo Centroamericano,24,49.28,5,2026-09-30
+PRD-0207,Router WiFi doble banda,Electrónica,Santa Ana,Importadora del Pacífico,36,52.05,5,2026-09-10
+PRD-0208,Router WiFi doble banda,Electrónica,Santa Ana,Distribuidora Cuscatlán,25,49.83,5,2026-09-23
+PRD-0210,Tablet 10 pulgadas,Electrónica,Santa Ana,Distribuidora Cuscatlán,5,192.72,8,2026-08-26
+PRD-0211,Tablet 10 pulgadas,Electrónica,Santa Ana,Suministros de Oriente,37,190.71,9,2026-08-24
+PRD-0213,Tablet 10 pulgadas,Electrónica,Santa Ana,Grupo Comercial Lempa,1,174.89,6,2026-07-15
+PRD-0214,Smartphone gama media,Electrónica,Santa Ana,Suministros de Oriente,12,272.74,9,2026-09-04
+PRD-0215,Smartphone gama media,Electrónica,Santa Ana,Grupo Comercial Lempa,19,309.08,7,2026-09-20
+PRD-0216,Smartphone gama media,Electrónica,Santa Ana,Importadora del Pacífico,1,311.14,5,2026-08-23
+PRD-0217,Smartphone gama media,Electrónica,Santa Ana,Mayoreo Centroamericano,46,308.53,4,2026-09-20
+PRD-0218,Smart TV 43 pulgadas,Electrónica,Santa Ana,Mayoreo Centroamericano,8,371.96,3,2026-09-24
+PRD-0219,Smart TV 43 pulgadas,Electrónica,Santa Ana,Grupo Comercial Lempa,28,355.57,4,2026-08-31
+PRD-0220,Smart TV 43 pulgadas,Electrónica,Santa Ana,Suministros de Oriente,34,322.66,3,2026-09-12
+PRD-0221,Smart TV 43 pulgadas,Electrónica,Santa Ana,Importadora del Pacífico,13,359.8,8,2026-08-04
+PRD-0222,Licuadora 600 W,Electrodomésticos,Santa Ana,Suministros de Oriente,20,53.28,2,2026-08-28
+PRD-0223,Licuadora 600 W,Electrodomésticos,Santa Ana,Importadora del Pacífico,20,46.98,4,2026-10-11
+PRD-0224,Licuadora 600 W,Electrodomésticos,Santa Ana,Distribuidora Cuscatlán,3,48.72,5,2026-09-21
+PRD-0225,Licuadora 600 W,Electrodomésticos,Santa Ana,Mayoreo Centroamericano,9,54.34,4,2026-10-02
+PRD-0226,Microondas 0.9 pies,Electrodomésticos,Santa Ana,Importadora del Pacífico,1,102.22,5,2026-08-14
+PRD-0227,Microondas 0.9 pies,Electrodomésticos,Santa Ana,Mayoreo Centroamericano,3,102.11,5,2026-09-04
+PRD-0228,Microondas 0.9 pies,Electrodomésticos,Santa Ana,Suministros de Oriente,13,93.96,5,2026-10-07
+PRD-0229,Microondas 0.9 pies,Electrodomésticos,Santa Ana,Distribuidora Cuscatlán,8,100.32,4,2026-07-02
+PRD-0230,Refrigeradora 10 pies,Electrodomésticos,Santa Ana,Mayoreo Centroamericano,3,485.24,4,2026-05-13
+PRD-0231,Refrigeradora 10 pies,Electrodomésticos,Santa Ana,Suministros de Oriente,14,545.16,3,2026-05-21
+PRD-0233,Refrigeradora 10 pies,Electrodomésticos,Santa Ana,Importadora del Pacífico,16,540.57,4,2026-09-19
+PRD-0234,Lavadora 18 lb,Electrodomésticos,Santa Ana,Importadora del Pacífico,1,412.93,4,2026-09-29
+PRD-0235,Lavadora 18 lb,Electrodomésticos,Santa Ana,Mayoreo Centroamericano,14,436.26,2,2026-10-06
+PRD-0236,Lavadora 18 lb,Electrodomésticos,Santa Ana,Grupo Comercial Lempa,22,391.67,5,2026-10-12
+PRD-0237,Lavadora 18 lb,Electrodomésticos,Santa Ana,Suministros de Oriente,15,452.96,2,2026-06-15
+PRD-0238,Cafetera 12 tazas,Electrodomésticos,Santa Ana,Distribuidora Cuscatlán,20,32.16,2,2026-09-09
+PRD-0239,Cafetera 12 tazas,Electrodomésticos,Santa Ana,Grupo Comercial Lempa,19,30.17,4,2026-07-25
+PRD-0240,Cafetera 12 tazas,Electrodomésticos,Santa Ana,Mayoreo Centroamericano,3,35.42,2,2026-07-02
+PRD-0241,Cafetera 12 tazas,Electrodomésticos,Santa Ana,Importadora del Pacífico,26,31.93,3,2026-10-06
+PRD-0242,Plancha de vapor,Electrodomésticos,Santa Ana,Grupo Comercial Lempa,3,23.3,5,2026-08-08
+PRD-0243,Plancha de vapor,Electrodomésticos,Santa Ana,Suministros de Oriente,2,26.65,2,2026-10-07
+PRD-0244,Plancha de vapor,Electrodomésticos,Santa Ana,Distribuidora Cuscatlán,6,24.51,3,2026-09-26
+PRD-0245,Plancha de vapor,Electrodomésticos,Santa Ana,Importadora del Pacífico,4,22.77,5,2026-09-28
+PRD-0246,Ventilador de pedestal,Electrodomésticos,Santa Ana,Mayoreo Centroamericano,15,40.38,5,2026-09-08
+PRD-0247,Ventilador de pedestal,Electrodomésticos,Santa Ana,Distribuidora Cuscatlán,26,43.87,2,2026-10-05
+PRD-0249,Ventilador de pedestal,Electrodomésticos,Santa Ana,Suministros de Oriente,4,41.48,2,2026-10-08
+PRD-0250,Ventilador de pedestal,Electrodomésticos,Santa Ana,Grupo Comercial Lempa,12,36.73,5,2026-08-30
+PRD-0251,Olla arrocera 1.8 L,Electrodomésticos,Santa Ana,Suministros de Oriente,5,31.18,3,2026-10-15
+PRD-0252,Olla arrocera 1.8 L,Electrodomésticos,Santa Ana,Distribuidora Cuscatlán,20,27.91,4,2026-09-20
+PRD-0253,Olla arrocera 1.8 L,Electrodomésticos,Santa Ana,Importadora del Pacífico,4,30.88,2,2026-04-06
+PRD-0254,Olla arrocera 1.8 L,Electrodomésticos,Santa Ana,Grupo Comercial Lempa,22,31.28,5,2026-08-21
+PRD-0255,Olla arrocera 1.8 L,Electrodomésticos,Santa Ana,Mayoreo Centroamericano,0,28.96,5,2026-08-24
+PRD-0256,Cocina de gas 4 quemadores,Electrodomésticos,Santa Ana,Mayoreo Centroamericano,17,253.16,5,2026-06-26
+PRD-0258,Cocina de gas 4 quemadores,Electrodomésticos,Santa Ana,Suministros de Oriente,2,283.12,4,2026-09-23
+PRD-0259,Cocina de gas 4 quemadores,Electrodomésticos,Santa Ana,Grupo Comercial Lempa,1,267.76,2,2026-09-23
+PRD-0260,Cocina de gas 4 quemadores,Electrodomésticos,Santa Ana,Importadora del Pacífico,16,285.67,5,2026-03-30
+PRD-0002,Arroz blanco 5 lb,Abarrotes,Sonsonate,Mayoreo Centroamericano,53,4.67,51,2026-09-23
+PRD-0004,Arroz blanco 5 lb,Abarrotes,Sonsonate,Distribuidora Cuscatlán,115,4.1,34,2026-08-14
+PRD-0006,Frijol rojo seda 2 lb,Abarrotes,Sonsonate,Importadora del Pacífico,120,2.6,43,2026-09-24
+PRD-0008,Frijol rojo seda 2 lb,Abarrotes,Sonsonate,Grupo Comercial Lempa,125,2.47,55,2026-09-12
+PRD-0009,Frijol rojo seda 2 lb,Abarrotes,Sonsonate,Suministros de Oriente,69,2.59,45,2026-07-28
+PRD-0010,Azúcar blanca 5 lb,Abarrotes,Sonsonate,Mayoreo Centroamericano,127,3.21,44,2026-07-16
+PRD-0012,Azúcar blanca 5 lb,Abarrotes,Sonsonate,Distribuidora Cuscatlán,104,3.28,58,2026-08-31
+PRD-0016,Aceite vegetal 1 L,Abarrotes,Sonsonate,Grupo Comercial Lempa,142,3.32,39,2026-09-13
+PRD-0017,Aceite vegetal 1 L,Abarrotes,Sonsonate,Mayoreo Centroamericano,172,3.05,32,2026-09-25
+PRD-0019,Café molido 400 g,Abarrotes,Sonsonate,Grupo Comercial Lempa,83,6.1,59,2026-08-30
+PRD-0022,Café molido 400 g,Abarrotes,Sonsonate,Suministros de Oriente,27,5.8,42,2026-04-21
+PRD-0023,Harina de maíz 2 lb,Abarrotes,Sonsonate,Distribuidora Cuscatlán,152,2.1,30,2026-09-13
+PRD-0024,Harina de maíz 2 lb,Abarrotes,Sonsonate,Mayoreo Centroamericano,73,1.98,52,2026-08-02
+PRD-0025,Harina de maíz 2 lb,Abarrotes,Sonsonate,Importadora del Pacífico,77,1.97,39,2026-08-24
+PRD-0027,Harina de maíz 2 lb,Abarrotes,Sonsonate,Grupo Comercial Lempa,48,2.18,57,2026-07-21
+PRD-0029,Pasta espagueti 500 g,Abarrotes,Sonsonate,Distribuidora Cuscatlán,160,1.18,42,2026-09-28
+PRD-0030,Pasta espagueti 500 g,Abarrotes,Sonsonate,Suministros de Oriente,104,1.22,58,2026-08-28
+PRD-0032,Leche en polvo 800 g,Abarrotes,Sonsonate,Grupo Comercial Lempa,133,8.56,33,2026-09-23
+PRD-0034,Leche en polvo 800 g,Abarrotes,Sonsonate,Importadora del Pacífico,6,8.19,40,2026-10-06
+PRD-0035,Leche en polvo 800 g,Abarrotes,Sonsonate,Distribuidora Cuscatlán,148,9.19,30,2026-09-16
+PRD-0036,Sal yodada 1 kg,Abarrotes,Sonsonate,Importadora del Pacífico,114,0.61,57,2026-10-08
+PRD-0037,Sal yodada 1 kg,Abarrotes,Sonsonate,Distribuidora Cuscatlán,163,0.72,37,2026-09-10
+PRD-0038,Sal yodada 1 kg,Abarrotes,Sonsonate,Suministros de Oriente,24,0.68,53,2026-08-09
+PRD-0039,Sal yodada 1 kg,Abarrotes,Sonsonate,Mayoreo Centroamericano,103,0.68,32,2026-08-29
+PRD-0042,Atún en agua 140 g,Abarrotes,Sonsonate,Suministros de Oriente,181,1.55,40,2026-08-22
+PRD-0043,Atún en agua 140 g,Abarrotes,Sonsonate,Distribuidora Cuscatlán,78,1.5,32,2026-05-24
+PRD-0045,Atún en agua 140 g,Abarrotes,Sonsonate,Mayoreo Centroamericano,54,1.41,48,2026-07-13
+PRD-0048,Agua purificada 1.5 L,Bebidas,Sonsonate,Mayoreo Centroamericano,36,0.87,35,2026-09-11
+PRD-0049,Agua purificada 1.5 L,Bebidas,Sonsonate,Suministros de Oriente,113,0.86,30,2026-09-11
+PRD-0050,Gaseosa 2 L,Bebidas,Sonsonate,Grupo Comercial Lempa,76,1.81,32,2026-09-13
+PRD-0051,Gaseosa 2 L,Bebidas,Sonsonate,Mayoreo Centroamericano,110,2.04,32,2026-08-23
+PRD-0052,Gaseosa 2 L,Bebidas,Sonsonate,Distribuidora Cuscatlán,129,1.96,45,2026-02-08
+PRD-0053,Gaseosa 2 L,Bebidas,Sonsonate,Suministros de Oriente,126,1.99,29,2026-09-20
+PRD-0054,Gaseosa 2 L,Bebidas,Sonsonate,Importadora del Pacífico,71,2.05,48,2026-09-21
+PRD-0055,Jugo de naranja 1 L,Bebidas,Sonsonate,Distribuidora Cuscatlán,32,2.55,42,2026-10-04
+PRD-0056,Jugo de naranja 1 L,Bebidas,Sonsonate,Grupo Comercial Lempa,132,2.29,42,2026-08-14
+PRD-0057,Jugo de naranja 1 L,Bebidas,Sonsonate,Suministros de Oriente,117,2.43,42,2026-09-14
+PRD-0058,Jugo de naranja 1 L,Bebidas,Sonsonate,Mayoreo Centroamericano,10,2.33,28,2026-08-22
+PRD-0059,Jugo de naranja 1 L,Bebidas,Sonsonate,Importadora del Pacífico,58,2.3,27,2026-10-05
+PRD-0060,Bebida energética 473 ml,Bebidas,Sonsonate,Suministros de Oriente,83,1.94,44,2026-10-05
+PRD-0062,Bebida energética 473 ml,Bebidas,Sonsonate,Distribuidora Cuscatlán,64,2.04,26,2026-06-20
+PRD-0063,Bebida energética 473 ml,Bebidas,Sonsonate,Importadora del Pacífico,10,2.0,39,2026-06-24
+PRD-0065,Té frío 500 ml,Bebidas,Sonsonate,Distribuidora Cuscatlán,103,1.18,31,2026-09-18
+PRD-0066,Té frío 500 ml,Bebidas,Sonsonate,Mayoreo Centroamericano,6,1.1,35,2026-08-31
+PRD-0068,Té frío 500 ml,Bebidas,Sonsonate,Suministros de Oriente,69,1.05,34,2026-09-02
+PRD-0069,Horchata en polvo 400 g,Bebidas,Sonsonate,Suministros de Oriente,66,3.16,30,2026-10-04
+PRD-0070,Horchata en polvo 400 g,Bebidas,Sonsonate,Mayoreo Centroamericano,41,3.33,42,2026-09-17
+PRD-0073,Horchata en polvo 400 g,Bebidas,Sonsonate,Distribuidora Cuscatlán,85,3.04,46,2026-09-04
+PRD-0074,Café instantáneo 200 g,Bebidas,Sonsonate,Mayoreo Centroamericano,47,6.96,28,2026-08-17
+PRD-0075,Café instantáneo 200 g,Bebidas,Sonsonate,Grupo Comercial Lempa,104,6.15,49,2026-09-21
+PRD-0076,Café instantáneo 200 g,Bebidas,Sonsonate,Importadora del Pacífico,97,6.64,36,2026-10-07
+PRD-0077,Café instantáneo 200 g,Bebidas,Sonsonate,Suministros de Oriente,138,5.87,43,2026-09-25
+PRD-0078,Jabón de tocador 3 un.,Higiene Personal,Sonsonate,Mayoreo Centroamericano,22,2.45,34,2026-09-02
+PRD-0079,Jabón de tocador 3 un.,Higiene Personal,Sonsonate,Grupo Comercial Lempa,91,2.55,31,2026-09-18
+PRD-0080,Jabón de tocador 3 un.,Higiene Personal,Sonsonate,Suministros de Oriente,4,2.47,28,2026-09-20
+PRD-0082,Champú 400 ml,Higiene Personal,Sonsonate,Mayoreo Centroamericano,1,5.11,24,2026-09-03
+PRD-0083,Champú 400 ml,Higiene Personal,Sonsonate,Distribuidora Cuscatlán,123,5.13,33,2026-08-22
+PRD-0084,Champú 400 ml,Higiene Personal,Sonsonate,Importadora del Pacífico,108,4.4,35,2026-08-20
+PRD-0086,Champú 400 ml,Higiene Personal,Sonsonate,Suministros de Oriente,78,5.25,37,2026-09-20
+PRD-0087,Pasta dental 150 ml,Higiene Personal,Sonsonate,Importadora del Pacífico,43,2.49,21,2026-10-06
+PRD-0088,Pasta dental 150 ml,Higiene Personal,Sonsonate,Distribuidora Cuscatlán,36,2.64,25,2026-09-30
+PRD-0092,Desodorante 50 ml,Higiene Personal,Sonsonate,Importadora del Pacífico,62,4.05,26,2026-08-22
+PRD-0094,Desodorante 50 ml,Higiene Personal,Sonsonate,Suministros de Oriente,46,4.33,31,2026-09-15
+PRD-0095,Papel higiénico 12 rollos,Higiene Personal,Sonsonate,Distribuidora Cuscatlán,51,6.38,29,2026-09-01
+PRD-0096,Papel higiénico 12 rollos,Higiene Personal,Sonsonate,Suministros de Oriente,49,6.27,34,2026-09-02
+PRD-0097,Papel higiénico 12 rollos,Higiene Personal,Sonsonate,Importadora del Pacífico,49,6.37,33,2026-09-03
+PRD-0098,Papel higiénico 12 rollos,Higiene Personal,Sonsonate,Grupo Comercial Lempa,53,6.47,32,2026-05-12
+PRD-0100,Toallas húmedas 80 un.,Higiene Personal,Sonsonate,Suministros de Oriente,50,2.93,29,2026-07-17
+PRD-0102,Toallas húmedas 80 un.,Higiene Personal,Sonsonate,Mayoreo Centroamericano,78,3.58,24,2026-09-26
+PRD-0103,Toallas húmedas 80 un.,Higiene Personal,Sonsonate,Importadora del Pacífico,35,2.99,26,2026-08-31
+PRD-0104,Toallas húmedas 80 un.,Higiene Personal,Sonsonate,Distribuidora Cuscatlán,75,3.52,22,2026-09-22
+PRD-0106,Cepillo dental,Higiene Personal,Sonsonate,Distribuidora Cuscatlán,41,1.79,31,2026-09-01
+PRD-0109,Juego de sartenes 3 pzs,Hogar,Sonsonate,Grupo Comercial Lempa,25,38.13,10,2026-09-17
+PRD-0110,Juego de sartenes 3 pzs,Hogar,Sonsonate,Suministros de Oriente,34,31.76,18,2026-10-02
+PRD-0111,Juego de sartenes 3 pzs,Hogar,Sonsonate,Importadora del Pacífico,21,38.61,17,2026-09-14
+PRD-0113,Vajilla 16 piezas,Hogar,Sonsonate,Grupo Comercial Lempa,29,41.34,23,2026-08-31
+PRD-0114,Vajilla 16 piezas,Hogar,Sonsonate,Mayoreo Centroamericano,47,45.32,16,2026-10-04
+PRD-0118,Detergente en polvo 2 kg,Hogar,Sonsonate,Grupo Comercial Lempa,53,7.74,21,2026-09-24
+PRD-0119,Detergente en polvo 2 kg,Hogar,Sonsonate,Importadora del Pacífico,8,7.63,14,2026-09-13
+PRD-0121,Desinfectante 1 gal,Hogar,Sonsonate,Grupo Comercial Lempa,41,6.33,18,2026-08-27
+PRD-0122,Desinfectante 1 gal,Hogar,Sonsonate,Suministros de Oriente,74,6.65,20,2026-08-18
+PRD-0123,Desinfectante 1 gal,Hogar,Sonsonate,Distribuidora Cuscatlán,28,6.09,23,2026-09-05
+PRD-0124,Desinfectante 1 gal,Hogar,Sonsonate,Importadora del Pacífico,74,6.36,10,2026-09-13
+PRD-0126,Escoba de cerdas,Hogar,Sonsonate,Distribuidora Cuscatlán,64,4.23,10,2026-08-18
+PRD-0127,Escoba de cerdas,Hogar,Sonsonate,Grupo Comercial Lempa,47,4.88,24,2026-10-02
+PRD-0128,Escoba de cerdas,Hogar,Sonsonate,Importadora del Pacífico,51,4.93,17,2026-08-19
+PRD-0130,Cortina de baño,Hogar,Sonsonate,Grupo Comercial Lempa,41,10.74,21,2026-08-21
+PRD-0131,Cortina de baño,Hogar,Sonsonate,Mayoreo Centroamericano,73,9.74,22,2026-08-27
+PRD-0134,Juego de sábanas matrimonial,Hogar,Sonsonate,Distribuidora Cuscatlán,40,26.14,22,2026-09-09
+PRD-0136,Juego de sábanas matrimonial,Hogar,Sonsonate,Grupo Comercial Lempa,6,28.35,17,2026-09-07
+PRD-0137,Juego de sábanas matrimonial,Hogar,Sonsonate,Mayoreo Centroamericano,15,26.69,20,2026-08-13
+PRD-0138,Almohada estándar,Hogar,Sonsonate,Importadora del Pacífico,64,12.65,23,2026-09-29
+PRD-0139,Almohada estándar,Hogar,Sonsonate,Distribuidora Cuscatlán,48,10.72,11,2026-09-24
+PRD-0140,Almohada estándar,Hogar,Sonsonate,Grupo Comercial Lempa,50,12.23,19,2026-08-29
+PRD-0141,Almohada estándar,Hogar,Sonsonate,Suministros de Oriente,59,11.69,21,2026-10-05
+PRD-0142,Almohada estándar,Hogar,Sonsonate,Mayoreo Centroamericano,50,10.86,17,2026-07-31
+PRD-0143,Martillo de uña 16 oz,Ferretería,Sonsonate,Importadora del Pacífico,22,9.66,6,2026-09-29
+PRD-0144,Martillo de uña 16 oz,Ferretería,Sonsonate,Mayoreo Centroamericano,3,8.83,8,2026-08-31
+PRD-0146,Martillo de uña 16 oz,Ferretería,Sonsonate,Suministros de Oriente,8,9.78,10,2026-09-29
+PRD-0147,Martillo de uña 16 oz,Ferretería,Sonsonate,Distribuidora Cuscatlán,26,9.88,9,2026-09-30
+PRD-0148,Juego de destornilladores,Ferretería,Sonsonate,Importadora del Pacífico,27,14.26,17,2026-09-11
+PRD-0150,Juego de destornilladores,Ferretería,Sonsonate,Grupo Comercial Lempa,43,16.22,7,2026-09-28
+PRD-0152,Juego de destornilladores,Ferretería,Sonsonate,Suministros de Oriente,59,13.35,10,2026-09-09
+PRD-0153,Taladro percutor 600 W,Ferretería,Sonsonate,Importadora del Pacífico,51,66.58,16,2026-09-16
+PRD-0154,Taladro percutor 600 W,Ferretería,Sonsonate,Grupo Comercial Lempa,13,64.73,16,2026-08-30
+PRD-0156,Taladro percutor 600 W,Ferretería,Sonsonate,Suministros de Oriente,9,69.06,17,2026-08-21
+PRD-0159,Cinta métrica 5 m,Ferretería,Sonsonate,Importadora del Pacífico,2,5.76,7,2026-10-08
+PRD-0160,Cinta métrica 5 m,Ferretería,Sonsonate,Mayoreo Centroamericano,10,5.3,9,2026-08-24
+PRD-0163,Pintura látex 1 gal,Ferretería,Sonsonate,Grupo Comercial Lempa,17,21.71,13,2026-10-01
+PRD-0164,Pintura látex 1 gal,Ferretería,Sonsonate,Mayoreo Centroamericano,50,21.89,12,2026-04-05
+PRD-0165,Pintura látex 1 gal,Ferretería,Sonsonate,Distribuidora Cuscatlán,15,20.78,10,2026-10-02
+PRD-0166,Extensión eléctrica 5 m,Ferretería,Sonsonate,Distribuidora Cuscatlán,59,8.77,6,2026-09-01
+PRD-0168,Extensión eléctrica 5 m,Ferretería,Sonsonate,Suministros de Oriente,41,9.07,16,2026-10-04
+PRD-0170,Extensión eléctrica 5 m,Ferretería,Sonsonate,Importadora del Pacífico,9,7.47,10,2026-09-07
+PRD-0173,Candado de seguridad,Ferretería,Sonsonate,Suministros de Oriente,15,10.89,15,2026-07-04
+PRD-0174,Candado de seguridad,Ferretería,Sonsonate,Importadora del Pacífico,56,10.75,12,2026-08-24
+PRD-0176,Foco LED 12 W,Ferretería,Sonsonate,Distribuidora Cuscatlán,45,2.71,6,2026-09-21
+PRD-0177,Foco LED 12 W,Ferretería,Sonsonate,Importadora del Pacífico,9,2.74,17,2026-07-03
+PRD-0178,Foco LED 12 W,Ferretería,Sonsonate,Mayoreo Centroamericano,18,2.75,16,2026-07-19
+PRD-0181,Audífonos Bluetooth,Electrónica,Sonsonate,Mayoreo Centroamericano,30,28.82,9,2026-08-27
+PRD-0183,Audífonos Bluetooth,Electrónica,Sonsonate,Grupo Comercial Lempa,8,28.35,9,2026-10-06
+PRD-0184,Audífonos Bluetooth,Electrónica,Sonsonate,Suministros de Oriente,16,30.87,7,2026-06-12
+PRD-0186,Parlante portátil,Electrónica,Sonsonate,Distribuidora Cuscatlán,15,49.36,3,2026-08-11
+PRD-0189,Cargador USB-C 25 W,Electrónica,Sonsonate,Grupo Comercial Lempa,29,14.41,4,2026-08-28
+PRD-0191,Cargador USB-C 25 W,Electrónica,Sonsonate,Importadora del Pacífico,15,13.96,7,2026-08-10
+PRD-0192,Cargador USB-C 25 W,Electrónica,Sonsonate,Distribuidora Cuscatlán,4,15.3,9,2026-07-10
+PRD-0194,Mouse inalámbrico,Electrónica,Sonsonate,Mayoreo Centroamericano,24,14.12,8,2026-07-29
+PRD-0196,Mouse inalámbrico,Electrónica,Sonsonate,Grupo Comercial Lempa,19,12.26,8,2026-08-01
+PRD-0197,Mouse inalámbrico,Electrónica,Sonsonate,Suministros de Oriente,24,12.74,3,2026-09-03
+PRD-0198,Mouse inalámbrico,Electrónica,Sonsonate,Importadora del Pacífico,13,12.98,4,2026-09-28
+PRD-0199,Memoria USB 64 GB,Electrónica,Sonsonate,Suministros de Oriente,25,9.25,8,2026-08-04
+PRD-0200,Memoria USB 64 GB,Electrónica,Sonsonate,Grupo Comercial Lempa,29,10.26,6,2026-09-24
+PRD-0201,Memoria USB 64 GB,Electrónica,Sonsonate,Importadora del Pacífico,25,10.61,6,2026-09-03
+PRD-0202,Memoria USB 64 GB,Electrónica,Sonsonate,Mayoreo Centroamericano,28,10.48,9,2026-08-22
+PRD-0203,Memoria USB 64 GB,Electrónica,Sonsonate,Distribuidora Cuscatlán,23,10.69,8,2026-08-15
+PRD-0205,Router WiFi doble banda,Electrónica,Sonsonate,Grupo Comercial Lempa,6,59.22,9,2026-08-02
+PRD-0206,Router WiFi doble banda,Electrónica,Sonsonate,Mayoreo Centroamericano,12,49.28,5,2026-09-30
+PRD-0207,Router WiFi doble banda,Electrónica,Sonsonate,Importadora del Pacífico,16,52.05,5,2026-09-30
+PRD-0208,Router WiFi doble banda,Electrónica,Sonsonate,Distribuidora Cuscatlán,25,49.83,5,2026-08-03
+PRD-0210,Tablet 10 pulgadas,Electrónica,Sonsonate,Distribuidora Cuscatlán,24,192.72,8,2026-10-09
+PRD-0211,Tablet 10 pulgadas,Electrónica,Sonsonate,Suministros de Oriente,19,190.71,9,2026-08-02
+PRD-0212,Tablet 10 pulgadas,Electrónica,Sonsonate,Importadora del Pacífico,6,194.69,9,2026-04-30
+PRD-0214,Smartphone gama media,Electrónica,Sonsonate,Suministros de Oriente,7,272.74,9,2026-09-01
+PRD-0215,Smartphone gama media,Electrónica,Sonsonate,Grupo Comercial Lempa,24,309.08,7,2026-08-29
+PRD-0216,Smartphone gama media,Electrónica,Sonsonate,Importadora del Pacífico,24,311.14,5,2026-10-06
+PRD-0217,Smartphone gama media,Electrónica,Sonsonate,Mayoreo Centroamericano,20,308.53,4,2026-09-13
+PRD-0218,Smart TV 43 pulgadas,Electrónica,Sonsonate,Mayoreo Centroamericano,24,371.96,3,2026-08-25
+PRD-0219,Smart TV 43 pulgadas,Electrónica,Sonsonate,Grupo Comercial Lempa,18,355.57,4,2026-05-20
+PRD-0220,Smart TV 43 pulgadas,Electrónica,Sonsonate,Suministros de Oriente,3,322.66,3,2026-09-15
+PRD-0222,Licuadora 600 W,Electrodomésticos,Sonsonate,Suministros de Oriente,19,53.28,2,2026-03-05
+PRD-0224,Licuadora 600 W,Electrodomésticos,Sonsonate,Distribuidora Cuscatlán,20,48.72,5,2026-09-09
+PRD-0225,Licuadora 600 W,Electrodomésticos,Sonsonate,Mayoreo Centroamericano,16,54.34,4,2026-09-30
+PRD-0226,Microondas 0.9 pies,Electrodomésticos,Sonsonate,Importadora del Pacífico,15,102.22,5,2026-08-31
+PRD-0230,Refrigeradora 10 pies,Electrodomésticos,Sonsonate,Mayoreo Centroamericano,11,485.24,4,2026-10-09
+PRD-0232,Refrigeradora 10 pies,Electrodomésticos,Sonsonate,Grupo Comercial Lempa,15,512.68,2,2026-08-28
+PRD-0233,Refrigeradora 10 pies,Electrodomésticos,Sonsonate,Importadora del Pacífico,13,540.57,4,2026-09-16
+PRD-0234,Lavadora 18 lb,Electrodomésticos,Sonsonate,Importadora del Pacífico,14,412.93,4,2026-10-08
+PRD-0235,Lavadora 18 lb,Electrodomésticos,Sonsonate,Mayoreo Centroamericano,20,436.26,2,2026-08-25
+PRD-0237,Lavadora 18 lb,Electrodomésticos,Sonsonate,Suministros de Oriente,10,452.96,2,2026-09-14
+PRD-0238,Cafetera 12 tazas,Electrodomésticos,Sonsonate,Distribuidora Cuscatlán,20,32.16,2,2026-09-26
+PRD-0239,Cafetera 12 tazas,Electrodomésticos,Sonsonate,Grupo Comercial Lempa,9,30.17,4,2026-07-03
+PRD-0240,Cafetera 12 tazas,Electrodomésticos,Sonsonate,Mayoreo Centroamericano,19,35.42,2,2026-08-23
+PRD-0241,Cafetera 12 tazas,Electrodomésticos,Sonsonate,Importadora del Pacífico,8,31.93,3,2026-08-29
+PRD-0242,Plancha de vapor,Electrodomésticos,Sonsonate,Grupo Comercial Lempa,7,23.3,5,2026-09-19
+PRD-0243,Plancha de vapor,Electrodomésticos,Sonsonate,Suministros de Oriente,17,26.65,2,2026-09-17
+PRD-0244,Plancha de vapor,Electrodomésticos,Sonsonate,Distribuidora Cuscatlán,1,24.51,3,2026-08-05
+PRD-0245,Plancha de vapor,Electrodomésticos,Sonsonate,Importadora del Pacífico,17,22.77,5,2026-09-09
+PRD-0248,Ventilador de pedestal,Electrodomésticos,Sonsonate,Importadora del Pacífico,20,41.16,2,2026-09-01
+PRD-0249,Ventilador de pedestal,Electrodomésticos,Sonsonate,Suministros de Oriente,18,41.48,2,2026-08-22
+PRD-0251,Olla arrocera 1.8 L,Electrodomésticos,Sonsonate,Suministros de Oriente,2,31.18,3,2026-06-17
+PRD-0253,Olla arrocera 1.8 L,Electrodomésticos,Sonsonate,Importadora del Pacífico,20,30.88,2,2026-10-05
+PRD-0254,Olla arrocera 1.8 L,Electrodomésticos,Sonsonate,Grupo Comercial Lempa,11,31.28,5,2026-08-28
+PRD-0255,Olla arrocera 1.8 L,Electrodomésticos,Sonsonate,Mayoreo Centroamericano,9,28.96,5,2026-10-11
+PRD-0257,Cocina de gas 4 quemadores,Electrodomésticos,Sonsonate,Distribuidora Cuscatlán,13,248.68,2,2026-10-07
