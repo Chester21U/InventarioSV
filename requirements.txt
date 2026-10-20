@@ -1,0 +1,4 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.10
+PyQt5>=5.15
